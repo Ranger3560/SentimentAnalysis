@@ -1,0 +1,1001 @@
+Date,Verified,ProductID,Rating,Title,ReviewText,ReviewID,SentimentLabel,SentimentScore
+21-01-2025,TRUE,B08T68ZMGL,4,Effective product,herb garden responded beautifully to this treatment,R3F17I07NJ7LT,POSITIVE,0.9932
+18-02-2024,TRUE,B08T68ZMGL,4,Works well,Significant improvement in herb garden health and flowering,R3ULTQJZDJTMV,POSITIVE,0.995
+17-07-2024,TRUE,B08T68ZMGL,4,Great buy,My plants flower abundantly. Thanks!,RMDD79XNL6Q5D,POSITIVE,0.9962
+09-10-2023,FALSE,B08T68ZMGL,3,Average product,Takes too long to show results on succulents,RE2WKP7HVN55Q,NEGATIVE,0.193
+07-04-2022,TRUE,B08T68ZMGL,5,Effective product,The marigold in my garden are now fruiting abundantly thanks to this product,RU55OLDLG9JXO,POSITIVE,0.9961
+24-06-2023,TRUE,B08T68ZMGL,5,Great buy,My plants flower abundantly. Thanks!,RYRI3MUI7D5YX,POSITIVE,0.9962
+22-09-2023,FALSE,B08T68ZMGL,3,Okay results,Not bad but not great for my orchids,R88K2QTZJ4NY5,NEGATIVE,0.0201
+23-08-2025,FALSE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my fruit trees - fruiting abundantly,RDWG820JL0P22,POSITIVE,0.9935
+15-03-2025,TRUE,B08T68ZMGL,5,Great buy,Works exactly as described on my hibiscus - 100% guarantee,RK8HE3NCEV1NN,POSITIVE,0.9775
+25-07-2023,TRUE,B08T68ZMGL,5,Amazing results!,"My money plants are thriving with this product, fruiting abundantly",RGV2TU3NJ03R8,POSITIVE,0.9963
+28-06-2023,FALSE,B08T68ZMGL,5,Visible improvement,Significant improvement in fruit trees health and fruit production,RXSAPQSNH672Q,POSITIVE,0.9913
+14-06-2022,FALSE,B08T68ZMGL,5,Amazing results!,Excellent results with my rose plants - saw improvement in just 16 days,RU22VEXKK12NK,POSITIVE,0.9941
+14-08-2025,TRUE,B08T68ZMGL,5,Happy with purchase,My plants flower abundantly. Thanks!,RABR2GZZ279XV,POSITIVE,0.9962
+06-06-2025,TRUE,B08T68ZMGL,2,Not effective,"Did nothing for my indoor plants, very disappointed",RZTJOJX3V9WQ5,NEGATIVE,0.0121
+15-04-2022,TRUE,B08T68ZMGL,4,Highly recommended,This product saved my dying herb garden - now they're 100% guarantee,R3F90RM9QJF02,POSITIVE,0.9906
+19-09-2022,TRUE,B08T68ZMGL,1,Not effective,No improvement in my lawn even after 5 weeks,R1DXY1COOCKVZ,NEGATIVE,0.0472
+12-11-2023,TRUE,B08T68ZMGL,1,No results,"Did nothing for my tulsi, very disappointed",RSEOQ85PD1G7X,NEGATIVE,0.0122
+26-07-2023,FALSE,B08T68ZMGL,4,Life saver for plants,Excellent results with my fruit trees - saw improvement in just 17 days,RCIOUB0V9KZ1L,POSITIVE,0.9933
+12-06-2024,TRUE,B08T68ZMGL,5,Happy with purchase,The flowering plants in my garden are now blooming continuously thanks to this product,R0XJPQOD2NBBU,POSITIVE,0.9964
+18-09-2022,TRUE,B08T68ZMGL,5,Effective product,lawn responded beautifully to this treatment,R6NDQ6KEUA7SL,POSITIVE,0.9827
+21-11-2024,TRUE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,RNM3Y8BT51ZMR,POSITIVE,0.9962
+07-08-2022,TRUE,B08T68ZMGL,4,Good product,Significant improvement in herb garden health and flowering,RS7SPGKX44GJK,POSITIVE,0.995
+10-07-2024,FALSE,B08T68ZMGL,5,Effective product,Works exactly as described on my orchids - recovered completely,R98MRIM92A9BJ,POSITIVE,0.9813
+12-08-2024,TRUE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My flowering plants growing vigorously,RE7FWLPURD0CR,POSITIVE,0.9966
+21-09-2024,TRUE,B08T68ZMGL,2,No results,Would not recommend for lawn - growth stunted,R1COE5G4M0EK0,NEGATIVE,0.0371
+01-11-2023,TRUE,B08T68ZMGL,4,Happy with purchase,My tulsi have never looked better - greener than ever,RCVAYFUGQ1Y82,POSITIVE,0.9953
+16-09-2022,TRUE,B08T68ZMGL,3,Moderate effect,Some improvement in my rose plants but expected more,RH4YG9DLYPS5B,POSITIVE,0.9477
+08-07-2025,TRUE,B08T68ZMGL,5,Great buy,My plants flower abundantly. Thanks!,R8PAOSSK1JN2N,POSITIVE,0.9962
+27-12-2022,TRUE,B08T68ZMGL,5,Effective product,My tulsi have never looked better - pest-free now,RQY9TJHFQ9UT3,POSITIVE,0.9921
+28-10-2023,TRUE,B08T68ZMGL,1,No results,No visible change in my money plants condition,R67SCVP90Y3PH,NEUTRAL,0.6604
+30-03-2023,TRUE,B08T68ZMGL,2,No results,No visible change in my succulents condition,RE8NDJCZJCGB8,POSITIVE,0.8863
+21-07-2023,TRUE,B08T68ZMGL,5,Great buy,Works exactly as described on my hibiscus - looking healthier,RQZIA36860J9Z,POSITIVE,0.9933
+29-11-2023,TRUE,B08T68ZMGL,4,Happy with purchase,My succulents have never looked better - more vibrant colors,R61XHTE2M15KA,POSITIVE,0.9952
+25-06-2024,TRUE,B08T68ZMGL,3,Okay results,My hibiscus showed moderate growth but it took several applications,RALFK2Y3RM928,NEUTRAL,0.6939
+14-08-2023,TRUE,B08T68ZMGL,4,Works well,Significant improvement in rose plants health and fruit production,RPPGOXSMNXFJN,POSITIVE,0.9933
+11-03-2025,TRUE,B08T68ZMGL,1,Disappointed,No improvement in my hibiscus even after 4 weeks,RXFGAE9JFLWQL,NEGATIVE,0.0336
+25-12-2022,TRUE,B08T68ZMGL,4,Effective product,The succulents in my garden are now 100% guarantee thanks to this product,RGNW6LMH3CBOU,POSITIVE,0.9755
+25-10-2023,TRUE,B08T68ZMGL,5,Great buy,My plants flower abundantly. Thanks!,R4RVT0VG1IMHF,POSITIVE,0.9962
+14-07-2025,TRUE,B08T68ZMGL,5,Amazing results!,Wonderful product! My lawn recovered completely,RL85JJ3ZWG4TH,POSITIVE,0.9959
+12-05-2025,TRUE,B08T68ZMGL,5,Happy with purchase,My flowering plants have never looked better - recovered completely,RIVV9SEXITAAL,POSITIVE,0.9954
+17-01-2025,TRUE,B08T68ZMGL,3,Okay results,My bonsai are doing okay but not exceptional,RDXVZ8DUEBHWD,NEGATIVE,0.2217
+11-11-2023,FALSE,B08T68ZMGL,3,Moderate effect,My money plants are doing okay but not exceptional,RVVFIGQEN5GYC,NEGATIVE,0.301
+26-09-2024,TRUE,B08T68ZMGL,4,Life saver for plants,This product saved my dying tulsi - now they're growing faster,RV12MXZQF3MVF,POSITIVE,0.9949
+16-05-2023,TRUE,B08T68ZMGL,4,Life saver for plants,This product saved my dying rose plants - now they're greener than ever,RJKS62VM8W5G9,POSITIVE,0.996
+09-12-2023,TRUE,B08T68ZMGL,4,Great buy,My marigold have never looked better - 100% guarantee,RZAYOGAZU3DCA,POSITIVE,0.9934
+10-08-2023,TRUE,B08T68ZMGL,4,Effective product,My plants flower abundantly. Thanks!,RR8S769RRO43M,POSITIVE,0.9962
+30-04-2024,TRUE,B08T68ZMGL,5,Happy with purchase,The rose plants in my garden are now looking healthier thanks to this product,R64JYJWT9THTQ,POSITIVE,0.9961
+19-03-2024,TRUE,B08T68ZMGL,4,Highly recommended,"My bonsai are thriving with this product, 100% guarantee",R0JGOOLTX380V,POSITIVE,0.9967
+18-03-2022,TRUE,B08T68ZMGL,4,Amazing results!,"My succulents are thriving with this product, greener than ever",RAH3V4GOQYFQ5,POSITIVE,0.9966
+27-06-2024,TRUE,B08T68ZMGL,4,Effective product,My tulsi have never looked better - greener than ever,RG8DZDWN29YYT,POSITIVE,0.9953
+02-03-2025,FALSE,B08T68ZMGL,4,Great buy,My plants flower abundantly. Thanks!,R7TJLT8RSL9ZZ,POSITIVE,0.9962
+03-05-2023,TRUE,B08T68ZMGL,4,Happy with purchase,My plants flower abundantly. Thanks!,RL094F42GDLG7,POSITIVE,0.9962
+01-10-2024,TRUE,B08T68ZMGL,5,Happy with purchase,My plants flower abundantly. Thanks!,RPFWB54MLPDLA,POSITIVE,0.9962
+13-04-2023,TRUE,B08T68ZMGL,5,Life saver for plants,"My hibiscus are thriving with this product, 100% guarantee",RETEQBB9YOH33,POSITIVE,0.9965
+26-12-2023,TRUE,B08T68ZMGL,5,Highly recommended,Wonderful product! My money plants more vibrant colors,RVXFW1AB3I5HU,POSITIVE,0.9965
+21-11-2025,FALSE,B08T68ZMGL,5,Effective product,hibiscus responded beautifully to this treatment,R96PBC0VKE5M1,POSITIVE,0.9948
+27-10-2023,TRUE,B08T68ZMGL,1,No results,My flowering plants actually got worse after using this,RRK315MO9NHF9,NEGATIVE,0.0109
+23-09-2024,TRUE,B08T68ZMGL,1,Not effective,My terrace garden actually got worse after using this,RIB7Z17YRRA4H,NEGATIVE,0.01
+28-03-2022,TRUE,B08T68ZMGL,4,Great buy,Works exactly as described on my flowering plants - growing faster,RFG2BFENAEY6Y,POSITIVE,0.9865
+11-06-2022,TRUE,B08T68ZMGL,5,Good product,Significant improvement in hibiscus health and fruit production,REBCB6I4IWCQT,POSITIVE,0.9947
+04-09-2025,TRUE,B08T68ZMGL,1,No results,"Did nothing for my hibiscus, very disappointed",R2YMGKKOVNZBY,NEGATIVE,0.012
+05-11-2024,TRUE,B08T68ZMGL,5,Effective product,My hibiscus have never looked better - greener than ever,R2G1DANZ3LDKY,POSITIVE,0.9953
+07-05-2022,TRUE,B08T68ZMGL,1,Harmful product,This product damaged my bonsai - now they're not responding,RGTUZ3N1PZILD,NEGATIVE,0.0118
+07-11-2023,TRUE,B08T68ZMGL,3,Moderate effect,My flowering plants showed moderate growth but it took a month,R3OAQNWVCK5CY,NEUTRAL,0.6893
+19-09-2022,TRUE,B08T68ZMGL,5,Effective product,The vegetables in my garden are now greener than ever thanks to this product,ROTQOINFDD67Y,POSITIVE,0.9966
+19-06-2025,TRUE,B08T68ZMGL,4,Highly recommended,Wonderful product! My vegetables growing vigorously,R4D5TRT5FEO8F,POSITIVE,0.9965
+14-03-2025,TRUE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my fruit trees - recovered completely,RZGADIYTS49NV,POSITIVE,0.9794
+17-11-2024,TRUE,B08T68ZMGL,4,Great buy,Works exactly as described on my herb garden - greener than ever,R5FY7GC01I8ZD,POSITIVE,0.9951
+25-08-2024,FALSE,B08T68ZMGL,4,Happy with purchase,My plants flower abundantly. Thanks!,RP4PG029UJQI4,POSITIVE,0.9962
+20-10-2024,TRUE,B08T68ZMGL,5,Amazing results!,Excellent results with my hibiscus - saw improvement in just 10 days,RL0I85FM8EN3Z,POSITIVE,0.9935
+02-01-2024,TRUE,B08T68ZMGL,4,Happy with purchase,My flowering plants have never looked better - blooming continuously,RSCQMRQB1JT6S,POSITIVE,0.9958
+31-03-2022,TRUE,B08T68ZMGL,5,Amazing results!,Wonderful product! My succulents growing vigorously,RSVBBETH1NAV1,POSITIVE,0.9965
+13-10-2024,FALSE,B08T68ZMGL,5,Life saver for plants,This product saved my dying hibiscus - now they're recovered completely,RODS92FFZ6A3B,POSITIVE,0.9922
+24-12-2023,TRUE,B08T68ZMGL,5,Works well,Significant improvement in orchids health and leaf color,RMFNS2OEIQ51U,POSITIVE,0.9956
+07-03-2025,TRUE,B08T68ZMGL,5,Life saver for plants,Wonderful product! My rose plants 100% guarantee,R15GDF24DBAY0,POSITIVE,0.9923
+08-08-2023,FALSE,B08T68ZMGL,5,Great buy,Works exactly as described on my marigold - greener than ever,ROZ7426PZTYZO,POSITIVE,0.9742
+06-09-2022,TRUE,B08T68ZMGL,5,Happy with purchase,marigold responded beautifully to this treatment,RZS8HCKGZ4V2E,POSITIVE,0.9876
+08-08-2025,FALSE,B08T68ZMGL,5,Visible improvement,Significant improvement in lawn health and growth,R2GI4TJLR4IVT,POSITIVE,0.9927
+11-06-2022,FALSE,B08T68ZMGL,5,Highly recommended,Wonderful product! My vegetables fruiting abundantly,R9MJ4AJI6X5NP,POSITIVE,0.9965
+17-03-2025,TRUE,B08T68ZMGL,4,Highly recommended,Excellent results with my tulsi - saw improvement in just 8 days,RENHMAYHSOA22,POSITIVE,0.9897
+09-12-2023,TRUE,B08T68ZMGL,5,Effective product,Visible difference in my bonsai after 4 weeks,RZ4DKBG983ADM,NEUTRAL,0.6821
+20-11-2024,TRUE,B08T68ZMGL,4,Amazing results!,This product saved my dying tulsi - now they're pest-free now,RGVH3EG8L1ALU,POSITIVE,0.9711
+05-04-2024,TRUE,B08T68ZMGL,5,Life saver for plants,Excellent results with my lawn - saw improvement in just 20 days,RDEK7J2IRAZO4,POSITIVE,0.9932
+02-04-2024,TRUE,B08T68ZMGL,3,Average product,Not bad but not great for my flowering plants,RI14BHGLIBM5Z,NEGATIVE,0.0225
+04-02-2022,TRUE,B08T68ZMGL,2,Not effective,Overpriced and ineffective for orchids,RDOZLSQO0HYSR,NEGATIVE,0.0109
+12-05-2023,FALSE,B08T68ZMGL,4,Great buy,My orchids have never looked better - 100% guarantee,R1Y30B5OERXVQ,POSITIVE,0.9951
+21-12-2022,TRUE,B08T68ZMGL,4,Effective product,Visible difference in my lawn after 3 weeks,RGJJOVOS9HYAA,NEUTRAL,0.6905
+09-09-2024,TRUE,B08T68ZMGL,3,Moderate effect,Average performance with my indoor plants - minor improvement,RCXS94ODZTYSA,POSITIVE,0.935
+10-07-2023,FALSE,B08T68ZMGL,4,Great buy,My terrace garden have never looked better - recovered completely,RXP4ML8OJM1EP,POSITIVE,0.9941
+12-08-2023,TRUE,B08T68ZMGL,4,Happy with purchase,Works exactly as described on my rose plants - blooming continuously,RBNW3KJQXW6V6,POSITIVE,0.9952
+19-01-2022,FALSE,B08T68ZMGL,3,Okay results,My tulsi showed moderate growth but it took a month,RALXCGNIW4I9T,NEUTRAL,0.6878
+31-01-2023,TRUE,B08T68ZMGL,5,Happy with purchase,succulents responded beautifully to this treatment,R6UWTI3O65B89,POSITIVE,0.9902
+19-11-2025,TRUE,B08T68ZMGL,5,Happy with purchase,terrace garden responded beautifully to this treatment,R8OG5OXVROMXD,POSITIVE,0.9892
+22-08-2024,TRUE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My bonsai more vibrant colors,RRSTROLSIJDX4,POSITIVE,0.9964
+23-06-2024,FALSE,B08T68ZMGL,1,Disappointed,Would not recommend for orchids - leaves turning yellow,R47K3ITGIG2GT,NEGATIVE,0.014
+05-12-2025,TRUE,B08T68ZMGL,5,Amazing results!,Excellent results with my indoor plants - saw improvement in just 18 days,R2ZX2X1ERRZNF,POSITIVE,0.9938
+09-01-2025,FALSE,B08T68ZMGL,3,Moderate effect,Works somewhat for flowering plants but needs improvement,R4U4ZE4ZURZGP,POSITIVE,0.8805
+20-08-2022,TRUE,B08T68ZMGL,5,Happy with purchase,Visible difference in my tulsi after 3 weeks,R1NMXW82LGOV8,NEUTRAL,0.687
+25-03-2025,TRUE,B08T68ZMGL,5,Great buy,Works exactly as described on my fruit trees - looking healthier,RBLOBA5N7A2YV,POSITIVE,0.9896
+06-10-2025,FALSE,B08T68ZMGL,3,Okay results,My succulents showed some improvement but it took several applications,RDIPEA6J88U5G,NEUTRAL,0.667
+17-08-2025,TRUE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my flowering plants - blooming continuously,R2GDJT1DL12SL,POSITIVE,0.9943
+29-08-2022,FALSE,B08T68ZMGL,4,Great buy,Visible difference in my bonsai after 3 weeks,RQRWPPE8BAGNB,NEUTRAL,0.685
+27-04-2024,TRUE,B08T68ZMGL,5,Amazing results!,"My bonsai are thriving with this product, recovered completely",R1VQ0JLPA78K8,POSITIVE,0.9961
+23-12-2023,TRUE,B08T68ZMGL,5,Great buy,My indoor plants have never looked better - recovered completely,R6PHXJN21UYOR,POSITIVE,0.9949
+30-07-2025,TRUE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My hibiscus growing faster,ROMHH0J0J9Z0T,POSITIVE,0.9967
+27-12-2023,TRUE,B08T68ZMGL,4,Highly recommended,"My hibiscus are thriving with this product, fruiting abundantly",R9EDEKZ8OUNUR,POSITIVE,0.9966
+20-10-2024,TRUE,B08T68ZMGL,5,Effective product,Works exactly as described on my flowering plants - 100% guarantee,RUNBZZWX8WOK9,POSITIVE,0.977
+01-03-2023,TRUE,B08T68ZMGL,3,Okay results,Average performance with my succulents - slight growth,RLRPE258UEWBR,POSITIVE,0.9751
+11-06-2025,TRUE,B08T68ZMGL,4,Amazing results!,This product saved my dying lawn - now they're blooming continuously,RYER19ZHCXFON,POSITIVE,0.9955
+22-07-2025,TRUE,B08T68ZMGL,5,Great buy,Visible difference in my money plants after 2 weeks,R5EC3XGR33FKI,NEUTRAL,0.6845
+27-04-2024,TRUE,B08T68ZMGL,4,Happy with purchase,Works exactly as described on my terrace garden - more vibrant colors,RD3WWZK6D4AH2,POSITIVE,0.9622
+12-10-2024,TRUE,B08T68ZMGL,5,Great buy,My indoor plants have never looked better - pest-free now,RL73AYBMSBCTU,POSITIVE,0.9938
+26-03-2024,TRUE,B08T68ZMGL,3,Okay results,Average performance with my vegetables - minor improvement,RYAPHK8DTE4KL,NEUTRAL,0.5994
+17-04-2024,TRUE,B08T68ZMGL,4,Effective product,My herb garden have never looked better - recovered completely,RO5A95FDGLKJX,POSITIVE,0.9947
+24-06-2022,TRUE,B08T68ZMGL,2,Not effective,No improvement in my lawn even after 5 weeks,R38N5MKNNYBS3,NEGATIVE,0.0472
+06-08-2024,TRUE,B08T68ZMGL,4,Happy with purchase,Works exactly as described on my lawn - more vibrant colors,RRLIC03EY4X5B,POSITIVE,0.9355
+16-10-2023,TRUE,B08T68ZMGL,4,Effective product,My lawn have never looked better - growing vigorously,R21P0C3SXQIJB,POSITIVE,0.9961
+11-06-2025,TRUE,B08T68ZMGL,5,Works well,Significant improvement in fruit trees health and fruit production,RVGF07APSKSJD,POSITIVE,0.9913
+14-03-2024,TRUE,B08T68ZMGL,4,Effective product,My plants flower abundantly. Thanks!,RLCUMTPAM344A,POSITIVE,0.9962
+25-07-2025,TRUE,B08T68ZMGL,4,Works well,Significant improvement in lawn health and fruit production,RJXX66A6UMVYH,POSITIVE,0.9927
+28-06-2024,TRUE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my lawn - blooming continuously,RH21RA9J6GQRJ,POSITIVE,0.9947
+24-03-2023,TRUE,B08T68ZMGL,4,Effective product,Works exactly as described on my indoor plants - growing faster,RZ3TRAZGCTFZR,POSITIVE,0.9834
+02-05-2022,TRUE,B08T68ZMGL,5,Great buy,The tulsi in my garden are now looking healthier thanks to this product,RKJL6ZAKYIWT4,POSITIVE,0.9953
+29-09-2022,TRUE,B08T68ZMGL,2,Not effective,No improvement in my marigold even after 5 weeks,R8PTROHK9EGMV,NEGATIVE,0.1432
+27-07-2024,TRUE,B08T68ZMGL,5,Highly recommended,This product saved my dying herb garden - now they're pest-free now,RMPUSEYTHBAJ4,POSITIVE,0.9883
+30-07-2024,TRUE,B08T68ZMGL,2,Total waste,"The product is duplicate, waste of money.",R0X5GZFZWVAVV,NEGATIVE,0.0138
+18-09-2023,TRUE,B08T68ZMGL,5,Amazing results!,"My indoor plants are thriving with this product, 100% guarantee",RQRF3372LIG0C,POSITIVE,0.9964
+29-07-2022,TRUE,B08T68ZMGL,5,Amazing results!,Wonderful product! My herb garden fruiting abundantly,R3DADTVNO2KL5,POSITIVE,0.9963
+25-07-2022,TRUE,B08T68ZMGL,4,Amazing results!,Wonderful product! My succulents more vibrant colors,R54QCFS8N8LPA,POSITIVE,0.9967
+22-04-2022,TRUE,B08T68ZMGL,3,Okay results,Average performance with my rose plants - minor improvement,RSS8D8M2V0CBD,POSITIVE,0.9426
+30-05-2022,FALSE,B08T68ZMGL,2,Disappointed,"Would not recommend for terrace garden - Cheating, no use",R02912SIMIEP2,NEGATIVE,0.0192
+11-03-2024,TRUE,B08T68ZMGL,4,Amazing results!,"My indoor plants are thriving with this product, growing faster",RLRNNBFY88X4M,POSITIVE,0.9968
+07-12-2024,FALSE,B08T68ZMGL,4,Life saver for plants,Excellent results with my hibiscus - saw improvement in just 18 days,RIT9DQVQ4WCFI,POSITIVE,0.9937
+19-11-2022,TRUE,B08T68ZMGL,4,Effective product,My bonsai have never looked better - producing more flowers,R93KQ8I1V8GD5,POSITIVE,0.9955
+18-10-2023,TRUE,B08T68ZMGL,3,Okay results,Some improvement in my tulsi but expected more,R92DIW6SZY2GA,POSITIVE,0.9026
+28-02-2025,TRUE,B08T68ZMGL,2,Disappointed,Would not recommend for hibiscus - still struggling,RSQ8DYZRQJS5X,NEGATIVE,0.018
+01-08-2022,TRUE,B08T68ZMGL,5,Highly recommended,Excellent results with my succulents - saw improvement in just 12 days,R7ZFYZ5A18UEW,POSITIVE,0.9943
+08-05-2022,TRUE,B08T68ZMGL,4,Amazing results!,"My orchids are thriving with this product, 100% guarantee",RFY89BSPQB927,POSITIVE,0.9966
+05-09-2022,TRUE,B08T68ZMGL,1,False claims,Complete waste of money for my vegetables - growth stunted,RJY7B945OTP1U,NEGATIVE,0.0116
+23-12-2022,TRUE,B08T68ZMGL,4,Effective product,Visible difference in my herb garden after 3 weeks,R1EGQ8GS50TZ4,NEUTRAL,0.6798
+03-06-2022,TRUE,B08T68ZMGL,2,Don't buy,"The product is duplicate, waste of money.",R02WF4WTB1G6K,NEGATIVE,0.0138
+16-03-2023,TRUE,B08T68ZMGL,2,Disappointed,No improvement in my bonsai even after 6 weeks,RW9G5MMNHVH3D,NEGATIVE,0.064
+19-09-2024,TRUE,B08T68ZMGL,4,Happy with purchase,Works exactly as described on my succulents - blooming continuously,RCKB90L1TATGC,POSITIVE,0.9951
+25-04-2022,TRUE,B08T68ZMGL,4,Highly recommended,"My vegetables are thriving with this product, fruiting abundantly",RRYKZDXZ68BQC,POSITIVE,0.9965
+01-10-2024,TRUE,B08T68ZMGL,5,Effective product,The orchids in my garden are now fruiting abundantly thanks to this product,R12L0HBMTC6SV,POSITIVE,0.9962
+18-09-2025,TRUE,B08T68ZMGL,4,Amazing results!,Wonderful product! My orchids growing faster,RE3A45YSYN6YO,POSITIVE,0.9967
+27-08-2023,TRUE,B08T68ZMGL,3,Okay results,Not bad but not great for my money plants,R4QYYEZY1LXY7,NEGATIVE,0.0254
+01-07-2022,TRUE,B08T68ZMGL,5,Life saver for plants,This product saved my dying vegetables - now they're fruiting abundantly,RTOQC07OCSP1F,POSITIVE,0.996
+29-03-2025,FALSE,B08T68ZMGL,4,Visible improvement,Significant improvement in marigold health and fruit production,RNO52UABY26DQ,POSITIVE,0.9929
+08-06-2024,TRUE,B08T68ZMGL,4,Effective product,The terrace garden in my garden are now producing more flowers thanks to this product,R5376PPQ9A81K,POSITIVE,0.9944
+17-09-2025,TRUE,B08T68ZMGL,1,No results,Overpriced and ineffective for rose plants,RMH37MZH4SGW9,NEGATIVE,0.0127
+19-06-2024,TRUE,B08T68ZMGL,5,Life saver for plants,This product saved my dying vegetables - now they're pest-free now,RG892RO3CJYLJ,POSITIVE,0.9872
+11-06-2022,TRUE,B08T68ZMGL,2,Total waste,"The product is duplicate, waste of money.",REU1KIKZ5YGY6,NEGATIVE,0.0138
+08-07-2025,FALSE,B08T68ZMGL,4,Amazing results!,Excellent results with my vegetables - saw improvement in just 13 days,R5LBQT3KJUIX0,POSITIVE,0.9928
+26-07-2022,TRUE,B08T68ZMGL,5,Visible improvement,Significant improvement in hibiscus health and growth,RSVVV9NKH6EMO,POSITIVE,0.9955
+11-02-2022,FALSE,B08T68ZMGL,5,Life saver for plants,This product saved my dying marigold - now they're producing more flowers,RCSBUUOZ8AQRB,POSITIVE,0.9948
+22-11-2022,TRUE,B08T68ZMGL,4,Great buy,My fruit trees have never looked better - recovered completely,R2PESIK6V7211,POSITIVE,0.9941
+27-10-2025,FALSE,B08T68ZMGL,4,Highly recommended,This product saved my dying indoor plants - now they're growing faster,R1DL6VLC5WQOA,POSITIVE,0.9952
+27-08-2025,TRUE,B08T68ZMGL,4,Effective product,The tulsi in my garden are now fruiting abundantly thanks to this product,RE0SR0WNL09SA,POSITIVE,0.9959
+13-08-2024,TRUE,B08T68ZMGL,3,Okay results,Average performance with my succulents - inconsistent results,RAIML0ZYUKLAO,NEUTRAL,0.637
+08-05-2023,TRUE,B08T68ZMGL,5,Great buy,My plants flower abundantly. Thanks!,RWSSLNOPNZ9FD,POSITIVE,0.9962
+07-09-2023,TRUE,B08T68ZMGL,4,Effective product,Visible difference in my terrace garden after 4 weeks,RUUV6349TR6OC,NEUTRAL,0.6939
+30-08-2022,TRUE,B08T68ZMGL,5,Effective product,fruit trees responded beautifully to this treatment,RGVLX2WIVDA1U,POSITIVE,0.9907
+15-06-2022,TRUE,B08T68ZMGL,4,Good product,Significant improvement in terrace garden health and leaf color,RHM6M09R6RHR3,POSITIVE,0.9938
+04-02-2024,TRUE,B08T68ZMGL,5,Good product,Significant improvement in flowering plants health and growth,RYWRJ00Q8VB3I,POSITIVE,0.9948
+02-10-2022,FALSE,B08T68ZMGL,4,Life saver for plants,Excellent results with my tulsi - saw improvement in just 11 days,RCWC6YXE8Q4QL,POSITIVE,0.9898
+01-05-2025,TRUE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,RZNN0OFDJH5PM,POSITIVE,0.9962
+03-08-2022,FALSE,B08T68ZMGL,4,Happy with purchase,Works exactly as described on my succulents - more vibrant colors,RIMASHLSTZCE5,POSITIVE,0.9464
+15-08-2022,TRUE,B08T68ZMGL,4,Effective product,My herb garden have never looked better - producing more flowers,RUO53IQ398ZAG,POSITIVE,0.9959
+14-07-2022,TRUE,B08T68ZMGL,4,Life saver for plants,Excellent results with my tulsi - saw improvement in just 20 days,RUW04NBWY9QDC,POSITIVE,0.9891
+08-12-2022,FALSE,B08T68ZMGL,5,Effective product,bonsai responded beautifully to this treatment,R4P2X5ELSO6DC,POSITIVE,0.9857
+06-10-2023,TRUE,B08T68ZMGL,4,Great buy,My bonsai have never looked better - recovered completely,R0VIQQ8YVIOMF,POSITIVE,0.9939
+09-06-2025,FALSE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,R1N5UUV2H8Y18,POSITIVE,0.9962
+04-07-2024,FALSE,B08T68ZMGL,5,Great buy,Visible difference in my tulsi after 3 weeks,RBZQ0E1JTSYMW,NEUTRAL,0.687
+23-06-2025,TRUE,B08T68ZMGL,5,Life saver for plants,This product saved my dying terrace garden - now they're fruiting abundantly,RLPDG3N0CMSJD,POSITIVE,0.9956
+20-01-2023,TRUE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My bonsai blooming continuously,R4U7T6CR1MO4W,POSITIVE,0.9965
+07-11-2024,TRUE,B08T68ZMGL,4,Highly recommended,Excellent results with my bonsai - saw improvement in just 15 days,RSWO6T3NLBVFL,POSITIVE,0.9915
+04-12-2025,TRUE,B08T68ZMGL,4,Visible improvement,Significant improvement in indoor plants health and flowering,RVIUJBQJ77POX,POSITIVE,0.9928
+08-04-2025,TRUE,B08T68ZMGL,4,Happy with purchase,Works exactly as described on my lawn - pest-free now,RKOFQUAUTI05O,POSITIVE,0.9745
+08-03-2022,TRUE,B08T68ZMGL,4,Great buy,My plants flower abundantly. Thanks!,RCGMOK8NDISPO,POSITIVE,0.9962
+20-02-2023,TRUE,B08T68ZMGL,5,Visible improvement,Significant improvement in flowering plants health and growth,RMSVTWPNRJLRY,POSITIVE,0.9948
+26-07-2023,TRUE,B08T68ZMGL,4,Life saver for plants,"My succulents are thriving with this product, growing faster",RK4L9BP55B1XM,POSITIVE,0.9967
+12-01-2023,TRUE,B08T68ZMGL,5,Effective product,The money plants in my garden are now growing vigorously thanks to this product,RIS5JECVNBAYM,POSITIVE,0.9958
+20-10-2023,TRUE,B08T68ZMGL,4,Great buy,My plants flower abundantly. Thanks!,RDS49Q0IRIIHA,POSITIVE,0.9962
+04-10-2025,TRUE,B08T68ZMGL,5,Highly recommended,"My lawn are thriving with this product, growing faster",RM7OU7TVQFT2O,POSITIVE,0.996
+12-04-2023,TRUE,B08T68ZMGL,5,Highly recommended,"My rose plants are thriving with this product, looking healthier",RWEGEBE40P2Q1,POSITIVE,0.9964
+27-06-2022,TRUE,B08T68ZMGL,2,Not effective,Would not recommend for marigold - showing signs of stress,RAXDT157QSUAM,NEGATIVE,0.0264
+06-05-2025,TRUE,B08T68ZMGL,5,Great buy,Works exactly as described on my rose plants - looking healthier,REJ37QQ7WU56M,POSITIVE,0.9921
+19-08-2023,TRUE,B08T68ZMGL,4,Effective product,My plants flower abundantly. Thanks!,RO97KYCO8A26H,POSITIVE,0.9962
+12-12-2022,FALSE,B08T68ZMGL,5,Happy with purchase,The herb garden in my garden are now more vibrant colors thanks to this product,R087QFU4QVGCA,POSITIVE,0.9951
+07-07-2025,TRUE,B08T68ZMGL,4,Happy with purchase,The succulents in my garden are now looking healthier thanks to this product,R220I1KELWJJZ,POSITIVE,0.9957
+05-07-2022,TRUE,B08T68ZMGL,4,Works well,Significant improvement in terrace garden health and flowering,REINUTM5IG6YN,POSITIVE,0.9946
+26-06-2023,TRUE,B08T68ZMGL,3,Okay results,Works somewhat for herb garden but needs improvement,RD17WDGG1ZBPI,POSITIVE,0.9301
+18-04-2025,TRUE,B08T68ZMGL,2,Not effective,Would not recommend for orchids - getting infected,RNUIDWICVHHLI,NEGATIVE,0.0194
+12-01-2024,TRUE,B08T68ZMGL,4,Amazing results!,"My fruit trees are thriving with this product, greener than ever",RLTNEB4OHLNE8,POSITIVE,0.9965
+04-01-2023,TRUE,B08T68ZMGL,4,Great buy,My plants flower abundantly. Thanks!,RIEYMVQTY7LGH,POSITIVE,0.9962
+03-12-2023,TRUE,B08T68ZMGL,5,Amazing results!,Wonderful product! My orchids looking healthier,RXL2D40IWOTL6,POSITIVE,0.9969
+20-05-2025,TRUE,B08T68ZMGL,1,Disappointed,Would not recommend for marigold - showing no growth,RJ0XOFFVPFXHR,NEGATIVE,0.0225
+18-01-2025,TRUE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My flowering plants fruiting abundantly,RE6PSK40NOBD5,POSITIVE,0.9964
+22-02-2023,TRUE,B08T68ZMGL,5,Effective product,Works exactly as described on my indoor plants - pest-free now,RESHDJ9BCPQUN,POSITIVE,0.9655
+25-11-2023,TRUE,B08T68ZMGL,2,Not effective,"Did nothing for my money plants, very disappointed",RSMO1EMSTGL39,NEGATIVE,0.0133
+28-04-2022,FALSE,B08T68ZMGL,4,Good product,Significant improvement in herb garden health and leaf color,RYTNF7NSA1LI8,POSITIVE,0.9948
+25-12-2023,TRUE,B08T68ZMGL,4,Happy with purchase,Visible difference in my terrace garden after 2 weeks,ROE70PXJQKKCT,NEUTRAL,0.6943
+18-02-2025,TRUE,B08T68ZMGL,4,Works well,Significant improvement in bonsai health and flowering,R2AYSYVTKOYKR,POSITIVE,0.9929
+23-02-2024,TRUE,B08T68ZMGL,2,No results,No visible change in my succulents condition,RMZO8BYI0T83O,POSITIVE,0.8863
+20-03-2025,TRUE,B08T68ZMGL,1,Disappointed,"Did nothing for my lawn, very disappointed",R9YOWH7QV778M,NEGATIVE,0.0109
+14-09-2024,FALSE,B08T68ZMGL,4,Highly recommended,"My hibiscus are thriving with this product, recovered completely",RDBWVK96RIER4,POSITIVE,0.9963
+25-07-2024,TRUE,B08T68ZMGL,5,Effective product,Works exactly as described on my bonsai - pest-free now,RZPGO07KBM9J8,POSITIVE,0.9592
+18-01-2024,TRUE,B08T68ZMGL,5,Highly recommended,Wonderful product! My terrace garden fruiting abundantly,RUA64K8398FD5,POSITIVE,0.9961
+15-07-2025,TRUE,B08T68ZMGL,3,Okay results,Works somewhat for vegetables but needs improvement,RIPSAKKEO2THM,POSITIVE,0.913
+06-09-2022,TRUE,B08T68ZMGL,5,Life saver for plants,This product saved my dying indoor plants - now they're growing faster,RCOLKNJZABIRG,POSITIVE,0.9952
+16-03-2025,TRUE,B08T68ZMGL,5,Happy with purchase,My plants flower abundantly. Thanks!,REW2CBNPLEVSX,POSITIVE,0.9962
+26-04-2023,TRUE,B08T68ZMGL,2,No results,"Did nothing for my flowering plants, very disappointed",RNXP2632VJ0ER,NEGATIVE,0.013
+05-08-2023,TRUE,B08T68ZMGL,5,Amazing results!,Wonderful product! My orchids blooming continuously,RF4I61CWVGVXJ,POSITIVE,0.9966
+29-12-2024,TRUE,B08T68ZMGL,4,Effective product,The orchids in my garden are now 100% guarantee thanks to this product,RBCJSFD9A0TUC,POSITIVE,0.975
+07-05-2025,TRUE,B08T68ZMGL,4,Happy with purchase,My herb garden have never looked better - greener than ever,R80DEKE5QED9F,POSITIVE,0.9957
+09-01-2023,FALSE,B08T68ZMGL,5,Great buy,My plants flower abundantly. Thanks!,R43GGPHB5Y0ZA,POSITIVE,0.9962
+10-05-2024,TRUE,B08T68ZMGL,5,Life saver for plants,Excellent results with my herb garden - saw improvement in just 10 days,RBSZGSBUY2R2G,POSITIVE,0.9951
+26-06-2024,TRUE,B08T68ZMGL,5,Works well,Significant improvement in tulsi health and flowering,R8Z7Q3N7EYX5Q,POSITIVE,0.9933
+27-09-2025,FALSE,B08T68ZMGL,1,Disappointed,No visible change in my indoor plants condition,R74MB694S01SH,NEUTRAL,0.6857
+04-07-2025,TRUE,B08T68ZMGL,5,Highly recommended,"My money plants are thriving with this product, recovered completely",R2C5J3HBKNCWQ,POSITIVE,0.9958
+28-11-2025,TRUE,B08T68ZMGL,5,Highly recommended,Wonderful product! My terrace garden recovered completely,RHKJBGVLU5JGT,POSITIVE,0.9965
+24-06-2025,FALSE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,R8PNJDIHJMBN3,POSITIVE,0.9962
+07-03-2022,TRUE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My rose plants fruiting abundantly,RKUNIP9DL2X7H,POSITIVE,0.9965
+01-05-2024,TRUE,B08T68ZMGL,1,Don't buy,"The product is duplicate, waste of money.",RTS2MJQU27I38,NEGATIVE,0.0138
+30-04-2024,TRUE,B08T68ZMGL,4,Effective product,My plants flower abundantly. Thanks!,RQRKOPF3SJINJ,POSITIVE,0.9962
+25-10-2023,TRUE,B08T68ZMGL,5,Highly recommended,This product saved my dying marigold - now they're pest-free now,RLK7RX9YGEQZL,POSITIVE,0.9839
+07-02-2025,FALSE,B08T68ZMGL,5,Effective product,rose plants responded beautifully to this treatment,RIKK3G59W89AK,POSITIVE,0.9921
+13-11-2025,FALSE,B08T68ZMGL,4,Life saver for plants,"My herb garden are thriving with this product, recovered completely",RPT3N1TDSXCVF,POSITIVE,0.9964
+17-09-2023,TRUE,B08T68ZMGL,3,Moderate effect,Takes too long to show results on hibiscus,RIBKBP5OZYRK3,NEUTRAL,0.618
+24-06-2022,TRUE,B08T68ZMGL,5,Highly recommended,Wonderful product! My vegetables recovered completely,REFPRH7EKKZI8,POSITIVE,0.9962
+19-01-2024,TRUE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,RCBL0AZMZF51T,POSITIVE,0.9962
+13-08-2023,FALSE,B08T68ZMGL,5,Highly recommended,"My vegetables are thriving with this product, producing more flowers",R0O4G07J7I9HQ,POSITIVE,0.9967
+05-08-2023,TRUE,B08T68ZMGL,4,Happy with purchase,The flowering plants in my garden are now growing faster thanks to this product,R7P9GY2NNWC3A,POSITIVE,0.9957
+24-12-2024,FALSE,B08T68ZMGL,2,Disappointed,My fruit trees actually got worse after using this,R37YKP1XAHQ0O,NEGATIVE,0.0119
+02-03-2022,FALSE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my fruit trees - 100% guarantee,RXY8CE4QIOVOF,POSITIVE,0.9719
+04-04-2025,TRUE,B08T68ZMGL,5,Great buy,The indoor plants in my garden are now growing faster thanks to this product,RJSVBPI4ZZ5XX,POSITIVE,0.9951
+14-09-2023,FALSE,B08T68ZMGL,4,Life saver for plants,This product saved my dying vegetables - now they're producing more flowers,RFXWX9S36RM9K,POSITIVE,0.9942
+23-05-2025,TRUE,B08T68ZMGL,4,Great buy,My plants flower abundantly. Thanks!,RGN6DH58EYXY8,POSITIVE,0.9962
+26-07-2024,TRUE,B08T68ZMGL,4,Effective product,Visible difference in my money plants after 2 weeks,RVFRLTPEXKJNP,NEUTRAL,0.6845
+04-03-2024,TRUE,B08T68ZMGL,4,Effective product,My bonsai have never looked better - fruiting abundantly,RIM1AEATGFM1I,POSITIVE,0.996
+12-07-2024,TRUE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my hibiscus - more vibrant colors,R0GWWV3BNP5Q3,POSITIVE,0.9375
+31-03-2022,TRUE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my hibiscus - growing faster,RRWKN5V6PFBRG,POSITIVE,0.9911
+18-10-2024,TRUE,B08T68ZMGL,4,Amazing results!,Wonderful product! My marigold more vibrant colors,RJ0V8LHE2L8JM,POSITIVE,0.9965
+08-03-2022,TRUE,B08T68ZMGL,4,Amazing results!,Wonderful product! My rose plants 100% guarantee,ROUAX1F6OLOLS,POSITIVE,0.9923
+16-02-2024,TRUE,B08T68ZMGL,5,Happy with purchase,The herb garden in my garden are now growing vigorously thanks to this product,RTRU2G4UBE772,POSITIVE,0.996
+16-06-2023,FALSE,B08T68ZMGL,4,Effective product,The bonsai in my garden are now greener than ever thanks to this product,RIZC4KIMH6LPZ,POSITIVE,0.9966
+18-12-2023,TRUE,B08T68ZMGL,4,Happy with purchase,My plants flower abundantly. Thanks!,RKM07ASBIB0OC,POSITIVE,0.9962
+15-08-2025,TRUE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My tulsi pest-free now,R45GVWGTX2IKO,POSITIVE,0.9947
+05-03-2022,TRUE,B08T68ZMGL,4,Great buy,The fruit trees in my garden are now pest-free now thanks to this product,RCDJ5L64SBUP9,POSITIVE,0.9884
+18-03-2022,TRUE,B08T68ZMGL,4,Great buy,My terrace garden have never looked better - fruiting abundantly,RSWF0HI6XQIR5,POSITIVE,0.9958
+26-08-2022,FALSE,B08T68ZMGL,1,Not effective,No improvement in my fruit trees even after 6 weeks,R0XOL3G1INBKB,NEGATIVE,0.0896
+22-06-2024,TRUE,B08T68ZMGL,2,Don't buy,False claims - my fruit trees show no difference,RO954YK3JJ9XS,NEGATIVE,0.1664
+22-08-2024,TRUE,B08T68ZMGL,4,Great buy,hibiscus responded beautifully to this treatment,RW1D3EPWMOGCB,POSITIVE,0.9948
+02-11-2025,TRUE,B08T68ZMGL,4,Great buy,My marigold have never looked better - growing vigorously,RNRGY5W9D6XBU,POSITIVE,0.9965
+02-08-2023,FALSE,B08T68ZMGL,5,Life saver for plants,"My rose plants are thriving with this product, pest-free now",RRL43TSBNSJEE,POSITIVE,0.9963
+02-12-2023,TRUE,B08T68ZMGL,4,Works well,Significant improvement in bonsai health and fruit production,RJ8N2XKHLGJT6,POSITIVE,0.9942
+06-05-2022,TRUE,B08T68ZMGL,3,Okay results,Moderate results with my hibiscus - inconsistent results,R3TVWM055JEK7,NEUTRAL,0.6828
+07-12-2023,FALSE,B08T68ZMGL,5,Effective product,The indoor plants in my garden are now greener than ever thanks to this product,RZKMIUU2WY0KZ,POSITIVE,0.9964
+23-02-2024,TRUE,B08T68ZMGL,5,Highly recommended,Excellent results with my tulsi - saw improvement in just 10 days,REF765JUCFAV4,POSITIVE,0.9896
+01-05-2024,TRUE,B08T68ZMGL,4,Great buy,My vegetables have never looked better - looking healthier,RUWPXMGFTD8F0,POSITIVE,0.9959
+09-03-2025,FALSE,B08T68ZMGL,4,Great buy,Works exactly as described on my herb garden - growing faster,RHDKY2QIURAII,POSITIVE,0.9911
+02-04-2025,TRUE,B08T68ZMGL,4,Effective product,My plants flower abundantly. Thanks!,RB1CSGIGQFYSA,POSITIVE,0.9962
+16-04-2022,TRUE,B08T68ZMGL,5,Effective product,The herb garden in my garden are now 100% guarantee thanks to this product,RNAQ0H42S9M99,POSITIVE,0.9777
+26-12-2022,TRUE,B08T68ZMGL,1,Harmful product,This product damaged my marigold - now they're not recovering,R9PHSVC35X5HZ,NEGATIVE,0.0118
+08-12-2023,TRUE,B08T68ZMGL,1,Not effective,No visible change in my succulents condition,R19T1GHHYX8OE,POSITIVE,0.8863
+26-03-2022,TRUE,B08T68ZMGL,5,Effective product,rose plants responded beautifully to this treatment,R3JCULN99S9LG,POSITIVE,0.9921
+04-01-2023,TRUE,B08T68ZMGL,4,Effective product,My plants flower abundantly. Thanks!,RB002EIOCQ91M,POSITIVE,0.9962
+06-09-2025,TRUE,B08T68ZMGL,4,Effective product,My plants flower abundantly. Thanks!,RRNS636AN2GZR,POSITIVE,0.9962
+04-05-2022,TRUE,B08T68ZMGL,5,Life saver for plants,Wonderful product! My indoor plants greener than ever,R9T62Z7EN3JFM,POSITIVE,0.9967
+02-07-2024,TRUE,B08T68ZMGL,5,Effective product,herb garden responded beautifully to this treatment,R0HN01E5BE0PR,POSITIVE,0.9932
+14-09-2024,TRUE,B08T68ZMGL,5,Highly recommended,"My tulsi are thriving with this product, producing more flowers",R4JZCA1ZNDUCU,POSITIVE,0.9968
+15-09-2025,FALSE,B08T68ZMGL,2,Total waste,False claims - my succulents show no difference,R6PWMC3MQ56PL,NEGATIVE,0.2388
+25-04-2022,TRUE,B08T68ZMGL,4,Great buy,Works exactly as described on my money plants - recovered completely,RCPE7NIXVJQ82,POSITIVE,0.9738
+21-08-2025,TRUE,B08T68ZMGL,2,No results,No improvement in my succulents even after 6 weeks,R461BSG6LT3HS,NEGATIVE,0.0765
+02-11-2025,TRUE,B08T68ZMGL,4,Life saver for plants,This product saved my dying flowering plants - now they're 100% guarantee,RK4USRLC45EPJ,POSITIVE,0.9884
+24-09-2024,TRUE,B08T68ZMGL,4,Amazing results!,"My vegetables are thriving with this product, more vibrant colors",R20XPLAOSH459,POSITIVE,0.9966
+30-06-2022,TRUE,B08T68ZMGL,4,Effective product,The vegetables in my garden are now more vibrant colors thanks to this product,RMSC084J3DRJ7,POSITIVE,0.9961
+29-08-2024,TRUE,B08T68ZMGL,1,No results,No improvement in my indoor plants even after 4 weeks,RH5X1D79MWG31,NEGATIVE,0.0413
+28-04-2025,TRUE,B08T68ZMGL,4,Amazing results!,Excellent results with my money plants - saw improvement in just 14 days,RKFQW8388E7W2,POSITIVE,0.9918
+07-10-2022,TRUE,B08T68ZMGL,4,Visible improvement,Significant improvement in marigold health and fruit production,RG6C9C1KA3GFR,POSITIVE,0.9929
+16-04-2023,FALSE,B08T68ZMGL,5,Highly recommended,Wonderful product! My orchids more vibrant colors,R3UHZLUAQQ8BK,POSITIVE,0.9965
+21-08-2024,TRUE,B08T68ZMGL,1,Damaged my plants,This product damaged my marigold - now they're getting infected,RQIFETP3H2ROE,NEGATIVE,0.0102
+11-12-2025,TRUE,B08T68ZMGL,5,Effective product,Visible difference in my indoor plants after 2 weeks,RGKLZG4P6VMP0,NEUTRAL,0.6917
+08-06-2025,TRUE,B08T68ZMGL,5,Life saver for plants,This product saved my dying marigold - now they're greener than ever,RJSS2VQ1YOV3D,POSITIVE,0.9952
+04-05-2023,FALSE,B08T68ZMGL,5,Amazing results!,Wonderful product! My terrace garden growing vigorously,RJNQRVPRRBWIF,POSITIVE,0.9966
+21-10-2025,TRUE,B08T68ZMGL,5,Happy with purchase,My terrace garden have never looked better - growing faster,RTWGDOOZV6V3E,POSITIVE,0.9958
+02-12-2024,FALSE,B08T68ZMGL,4,Amazing results!,Wonderful product! My hibiscus looking healthier,RY0EOXHFQ060S,POSITIVE,0.9966
+25-09-2025,TRUE,B08T68ZMGL,2,Harmful product,This product damaged my flowering plants - now they're not recovering,RPUGA4S69HYR1,NEGATIVE,0.0111
+21-12-2025,FALSE,B08T68ZMGL,5,Great buy,The vegetables in my garden are now growing faster thanks to this product,RON581B496K1B,POSITIVE,0.9956
+19-10-2024,TRUE,B08T68ZMGL,5,Great buy,Works exactly as described on my bonsai - greener than ever,RRYX5YJINAWYR,POSITIVE,0.9887
+07-09-2024,TRUE,B08T68ZMGL,3,Moderate effect,My succulents are doing okay but not exceptional,RW5JBEUG31NL7,NEGATIVE,0.2931
+28-06-2022,TRUE,B08T68ZMGL,3,Okay results,Takes too long to show results on indoor plants,RZEHLI2OEPFD0,NEUTRAL,0.6051
+18-05-2024,TRUE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my bonsai - recovered completely,RQEUL5AZICXLD,POSITIVE,0.9791
+21-02-2024,TRUE,B08T68ZMGL,5,Amazing results!,Wonderful product! My flowering plants more vibrant colors,RAHTALHQ8S5AN,POSITIVE,0.9965
+13-08-2025,FALSE,B08T68ZMGL,4,Happy with purchase,My plants flower abundantly. Thanks!,R849Z2QKKVMHO,POSITIVE,0.9962
+20-11-2025,TRUE,B08T68ZMGL,4,Happy with purchase,tulsi responded beautifully to this treatment,R459FWCAJXIR6,POSITIVE,0.9787
+10-11-2025,TRUE,B08T68ZMGL,4,Life saver for plants,This product saved my dying lawn - now they're 100% guarantee,RDJC54ASEX57I,POSITIVE,0.9849
+09-09-2024,FALSE,B08T68ZMGL,1,No results,No visible change in my flowering plants condition,RCO5FZIY6AQ44,NEUTRAL,0.6651
+17-08-2022,TRUE,B08T68ZMGL,4,Highly recommended,Wonderful product! My indoor plants growing vigorously,R2RR13SI2492O,POSITIVE,0.9966
+21-12-2023,TRUE,B08T68ZMGL,1,Damaged my plants,This product damaged my marigold - now they're Waiting for results,R15Q9KCUSMI2T,NEGATIVE,0.0154
+22-07-2022,TRUE,B08T68ZMGL,1,Don't buy,False claims - my herb garden show no difference,RXXUHP6O3UZFI,NEGATIVE,0.1872
+15-02-2025,TRUE,B08T68ZMGL,5,Happy with purchase,My hibiscus have never looked better - looking healthier,RP2HDGQOU8EZF,POSITIVE,0.9961
+04-08-2022,TRUE,B08T68ZMGL,2,Not effective,Overpriced and ineffective for succulents,REIO4EPZQW6D7,NEGATIVE,0.0127
+30-04-2025,TRUE,B08T68ZMGL,5,Effective product,Visible difference in my hibiscus after 3 weeks,R9SNEHLEHAR39,NEUTRAL,0.693
+02-01-2023,TRUE,B08T68ZMGL,4,Highly recommended,"My rose plants are thriving with this product, growing vigorously",RDO5M32RRS7NH,POSITIVE,0.9966
+07-10-2023,TRUE,B08T68ZMGL,5,Great buy,Works exactly as described on my money plants - producing more flowers,RUF16NSV5FBER,POSITIVE,0.9679
+17-11-2022,TRUE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my succulents - more vibrant colors,RIEHYMCZB11UC,POSITIVE,0.9464
+02-01-2024,TRUE,B08T68ZMGL,1,Total waste,"The product is duplicate, waste of money.",RE288B3OV46J1,NEGATIVE,0.0138
+15-02-2022,TRUE,B08T68ZMGL,5,Effective product,Works exactly as described on my orchids - greener than ever,RZDEKT3OCIRCM,POSITIVE,0.9867
+01-09-2023,TRUE,B08T68ZMGL,5,Happy with purchase,My fruit trees have never looked better - growing faster,RZE8Q3U3C2SH7,POSITIVE,0.9957
+28-04-2024,TRUE,B08T68ZMGL,2,Not effective,Expected better results with my lawn but not recovering,REMGR60PVK7YQ,NEUTRAL,0.5964
+08-05-2023,TRUE,B08T68ZMGL,5,Happy with purchase,The marigold in my garden are now producing more flowers thanks to this product,R5OAFBT27ETN9,POSITIVE,0.9952
+20-02-2025,TRUE,B08T68ZMGL,5,Life saver for plants,"My fruit trees are thriving with this product, producing more flowers",RZFW791S9JN1Q,POSITIVE,0.9967
+13-04-2024,FALSE,B08T68ZMGL,1,False claims,Complete waste of money for my tulsi - Waiting for results,RWOVEUU8KI4NK,NEGATIVE,0.0097
+04-10-2023,TRUE,B08T68ZMGL,2,Total waste,Complete waste of money for my bonsai - Waiting for results,RBLEQ8F56YF9L,NEGATIVE,0.01
+23-07-2023,TRUE,B08T68ZMGL,5,Highly recommended,"My herb garden are thriving with this product, blooming continuously",RVXDPT0YLUNXO,POSITIVE,0.9967
+14-01-2024,FALSE,B08T68ZMGL,1,Not effective,Would not recommend for indoor plants - showing signs of stress,RWOJ8F0YXXAXR,NEGATIVE,0.0173
+14-06-2022,TRUE,B08T68ZMGL,4,Great buy,My marigold have never looked better - 100% guarantee,RTXGEUPVTTPIC,POSITIVE,0.9934
+05-08-2025,TRUE,B08T68ZMGL,5,Highly recommended,Excellent results with my bonsai - saw improvement in just 19 days,R4EMB25IYTRUO,POSITIVE,0.9917
+02-11-2023,TRUE,B08T68ZMGL,2,No results,No visible change in my bonsai condition,RS7E6VYV8YXNM,NEUTRAL,0.6129
+14-05-2025,TRUE,B08T68ZMGL,2,Disappointed,Expected better results with my fruit trees but still struggling,R93DY4PFXGO4P,NEUTRAL,0.6143
+03-08-2023,TRUE,B08T68ZMGL,5,Effective product,My indoor plants have never looked better - blooming continuously,RQ66S1Z8G8KN3,POSITIVE,0.9956
+30-05-2022,TRUE,B08T68ZMGL,5,Good product,Significant improvement in herb garden health and fruit production,R32B8WZXYLQ19,POSITIVE,0.995
+14-12-2022,TRUE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,RIXV4BJ5414VU,POSITIVE,0.9962
+04-12-2022,TRUE,B08T68ZMGL,2,Disappointed,Expected better results with my indoor plants but dropping leaves,RBZR5UNS15819,NEUTRAL,0.6243
+31-10-2022,TRUE,B08T68ZMGL,5,Happy with purchase,My hibiscus have never looked better - pest-free now,R43V66I9WLLYI,POSITIVE,0.9934
+27-10-2025,TRUE,B08T68ZMGL,5,Life saver for plants,"My marigold are thriving with this product, 100% guarantee",RZ4DX3B1GPHM9,POSITIVE,0.9963
+11-08-2025,FALSE,B08T68ZMGL,5,Great buy,My plants flower abundantly. Thanks!,RASQJL398RE07,POSITIVE,0.9962
+04-06-2024,TRUE,B08T68ZMGL,5,Happy with purchase,My plants flower abundantly. Thanks!,RQXWLC3D7GD9L,POSITIVE,0.9962
+01-12-2023,TRUE,B08T68ZMGL,5,Amazing results!,This product saved my dying money plants - now they're blooming continuously,RZONPXIN3G2SA,POSITIVE,0.9956
+06-06-2022,TRUE,B08T68ZMGL,3,Moderate effect,Average performance with my succulents - inconsistent results,RXIIEGPTCLR0Q,NEUTRAL,0.637
+20-07-2024,TRUE,B08T68ZMGL,4,Works well,Significant improvement in tulsi health and leaf color,RRGTCXT72Z9OF,POSITIVE,0.9909
+09-09-2025,TRUE,B08T68ZMGL,5,Highly recommended,Excellent results with my hibiscus - saw improvement in just 9 days,RYLHMZCOOEA40,POSITIVE,0.9935
+11-05-2023,TRUE,B08T68ZMGL,4,Effective product,Visible difference in my herb garden after 2 weeks,RFMS6AGH055PY,NEUTRAL,0.6761
+30-07-2022,TRUE,B08T68ZMGL,5,Great buy,Visible difference in my orchids after 3 weeks,RMPZUQLJAHHLM,NEUTRAL,0.6924
+20-08-2025,TRUE,B08T68ZMGL,5,Highly recommended,Excellent results with my fruit trees - saw improvement in just 15 days,RFHHXCP0A6C87,POSITIVE,0.9931
+10-03-2024,TRUE,B08T68ZMGL,2,Harmful product,This product damaged my marigold - now they're leaves turning yellow,RYTOQSSUMAQO4,NEGATIVE,0.0103
+07-02-2022,TRUE,B08T68ZMGL,5,Good product,Significant improvement in hibiscus health and flowering,RC9O6UITC48KH,POSITIVE,0.9953
+22-05-2025,FALSE,B08T68ZMGL,3,Moderate effect,Not bad but not great for my money plants,ROPXFGU33LSYT,NEGATIVE,0.0254
+23-06-2024,TRUE,B08T68ZMGL,4,Effective product,My plants flower abundantly. Thanks!,RRHV5DT47YR0U,POSITIVE,0.9962
+18-05-2023,TRUE,B08T68ZMGL,5,Life saver for plants,Wonderful product! My lawn pest-free now,R5RF8SEEGUSD1,POSITIVE,0.9939
+03-12-2022,FALSE,B08T68ZMGL,4,Happy with purchase,Works exactly as described on my herb garden - pest-free now,RFE1X5KZZSVZF,POSITIVE,0.9757
+04-06-2025,FALSE,B08T68ZMGL,2,Disappointed,Overpriced and ineffective for herb garden,RXPG7JSNPVSE7,NEGATIVE,0.0138
+04-02-2025,TRUE,B08T68ZMGL,4,Amazing results!,This product saved my dying lawn - now they're looking healthier,RBCM0WJ9TAFIQ,POSITIVE,0.9931
+13-09-2022,TRUE,B08T68ZMGL,2,No results,Would not recommend for succulents - showing no growth,RGK0C8QKPXNU8,NEGATIVE,0.0162
+30-01-2023,TRUE,B08T68ZMGL,4,Works well,Significant improvement in herb garden health and growth,RTD3PT22VHGDI,POSITIVE,0.9958
+29-09-2024,TRUE,B08T68ZMGL,5,Happy with purchase,tulsi responded beautifully to this treatment,RQF5IHGYIJPG1,POSITIVE,0.9787
+24-03-2022,TRUE,B08T68ZMGL,5,Life saver for plants,"My marigold are thriving with this product, growing vigorously",RI4ADA15SFXAA,POSITIVE,0.9967
+27-09-2023,TRUE,B08T68ZMGL,5,Life saver for plants,"My rose plants are thriving with this product, growing vigorously",RKWSHPLRIGGGV,POSITIVE,0.9966
+23-07-2023,FALSE,B08T68ZMGL,5,Effective product,Visible difference in my flowering plants after 3 weeks,RNVPKSPK4K6MK,NEUTRAL,0.686
+26-02-2023,TRUE,B08T68ZMGL,4,Great buy,My money plants have never looked better - growing vigorously,R8PVFTLE1V0FE,POSITIVE,0.9964
+08-08-2023,TRUE,B08T68ZMGL,2,No results,Expected better results with my flowering plants but showing no growth,R593BE6MB02EB,NEGATIVE,0.2365
+15-04-2025,TRUE,B08T68ZMGL,5,Visible improvement,Significant improvement in indoor plants health and flowering,R8IIY9BJ21MW0,POSITIVE,0.9928
+26-07-2025,TRUE,B08T68ZMGL,4,Happy with purchase,Works exactly as described on my fruit trees - greener than ever,RIS5J68YYJ1TY,POSITIVE,0.9888
+21-12-2023,TRUE,B08T68ZMGL,4,Highly recommended,Excellent results with my rose plants - saw improvement in just 21 days,RU7UA5J23PTQZ,POSITIVE,0.9941
+20-12-2025,TRUE,B08T68ZMGL,1,Disappointed,Would not recommend for orchids - not recovering,RG8ZCGL0ON0HW,NEGATIVE,0.0142
+08-01-2025,TRUE,B08T68ZMGL,5,Effective product,My lawn have never looked better - growing faster,R1TOOCTTC6RP0,POSITIVE,0.9954
+03-01-2024,FALSE,B08T68ZMGL,4,Highly recommended,Excellent results with my bonsai - saw improvement in just 10 days,R6TMT7ZY1HPL0,POSITIVE,0.9914
+04-02-2025,TRUE,B08T68ZMGL,3,Moderate effect,My succulents showed moderate growth but it took 4 weeks,R6QOL6LQ4XUVQ,NEUTRAL,0.6907
+05-08-2025,FALSE,B08T68ZMGL,4,Great buy,My plants flower abundantly. Thanks!,RONUBUE4IHI1P,POSITIVE,0.9962
+17-03-2025,TRUE,B08T68ZMGL,5,Happy with purchase,My lawn have never looked better - blooming continuously,RTZ8OYX7B2M1F,POSITIVE,0.9952
+15-11-2023,FALSE,B08T68ZMGL,5,Happy with purchase,tulsi responded beautifully to this treatment,RI82LF3G4ZXDW,POSITIVE,0.9787
+25-04-2022,TRUE,B08T68ZMGL,4,Great buy,My rose plants have never looked better - more vibrant colors,RKAD3R8LN0DSV,POSITIVE,0.9956
+30-07-2022,TRUE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,R0PLUW4ICHM64,POSITIVE,0.9962
+13-01-2025,TRUE,B08T68ZMGL,4,Happy with purchase,The indoor plants in my garden are now 100% guarantee thanks to this product,RR5BCD0LO2IUU,POSITIVE,0.9668
+23-11-2025,TRUE,B08T68ZMGL,4,Great buy,My plants flower abundantly. Thanks!,ROGOUKCAB3VWH,POSITIVE,0.9962
+11-09-2024,TRUE,B08T68ZMGL,3,Moderate effect,Takes too long to show results on succulents,RQYBQ76ZD214A,NEGATIVE,0.193
+23-12-2022,FALSE,B08T68ZMGL,5,Amazing results!,Excellent results with my rose plants - saw improvement in just 10 days,RCJ60UW0ODS3X,POSITIVE,0.994
+23-10-2022,TRUE,B08T68ZMGL,4,Highly recommended,This product saved my dying terrace garden - now they're growing faster,RV46JOBFMXRLU,POSITIVE,0.996
+28-09-2024,FALSE,B08T68ZMGL,4,Effective product,Visible difference in my terrace garden after 4 weeks,R72GN2IRNIHGB,NEUTRAL,0.6939
+10-04-2025,FALSE,B08T68ZMGL,5,Effective product,My herb garden have never looked better - more vibrant colors,RN7WG87FD5U93,POSITIVE,0.9958
+15-11-2024,TRUE,B08T68ZMGL,2,Not effective,Would not recommend for bonsai - flowers stopped coming,RMFGESBD68NC2,NEGATIVE,0.0167
+20-03-2022,TRUE,B08T68ZMGL,1,No results,Expected better results with my money plants but showing no growth,RJCO9QRU6L4UP,NEUTRAL,0.5797
+25-01-2022,TRUE,B08T68ZMGL,5,Effective product,rose plants responded beautifully to this treatment,RGIR5E8QHISRQ,POSITIVE,0.9921
+17-02-2025,TRUE,B08T68ZMGL,4,Happy with purchase,Visible difference in my terrace garden after 4 weeks,R15VBQHNC8FRR,NEUTRAL,0.6939
+08-11-2023,FALSE,B08T68ZMGL,5,Great buy,The terrace garden in my garden are now producing more flowers thanks to this product,RKSWKEDY2DHBY,POSITIVE,0.9944
+20-05-2025,FALSE,B08T68ZMGL,5,Amazing results!,Wonderful product! My hibiscus growing faster,RH62YA8N22I6U,POSITIVE,0.9967
+27-02-2023,FALSE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My hibiscus recovered completely,R47FPHLXLIO90,POSITIVE,0.9965
+31-07-2024,FALSE,B08T68ZMGL,4,Good product,Significant improvement in tulsi health and leaf color,RG13NXCUSETUE,POSITIVE,0.9909
+31-03-2022,TRUE,B08T68ZMGL,5,Works well,Significant improvement in bonsai health and growth,R8V9MAWPQ7HZJ,POSITIVE,0.9943
+01-03-2023,TRUE,B08T68ZMGL,3,Okay results,Moderate results with my hibiscus - slow progress,RIG2PQDQUE04X,NEGATIVE,0.0364
+15-10-2022,FALSE,B08T68ZMGL,5,Effective product,My bonsai have never looked better - growing faster,RGA5UL64Q6O09,POSITIVE,0.9959
+24-07-2025,TRUE,B08T68ZMGL,4,Life saver for plants,Excellent results with my fruit trees - saw improvement in just 21 days,RTNPWEB10RRXD,POSITIVE,0.9932
+28-03-2023,TRUE,B08T68ZMGL,4,Good product,Significant improvement in rose plants health and flowering,RY3UNQ1ITBMMX,POSITIVE,0.9923
+01-09-2025,TRUE,B08T68ZMGL,5,Great buy,Visible difference in my hibiscus after 2 weeks,RBEG2TND27ALZ,NEUTRAL,0.6928
+21-11-2025,FALSE,B08T68ZMGL,4,Highly recommended,"My indoor plants are thriving with this product, 100% guarantee",R46ROZN20WGIQ,POSITIVE,0.9964
+14-05-2023,TRUE,B08T68ZMGL,4,Highly recommended,Excellent results with my fruit trees - saw improvement in just 16 days,RM2DA571XLYQB,POSITIVE,0.9933
+12-05-2023,TRUE,B08T68ZMGL,4,Good product,Significant improvement in lawn health and flowering,R71XZSP8VI6M2,POSITIVE,0.9922
+23-02-2023,TRUE,B08T68ZMGL,4,Great buy,My plants flower abundantly. Thanks!,R82QBP868AGM9,POSITIVE,0.9962
+31-10-2024,TRUE,B08T68ZMGL,1,Disappointed,My terrace garden actually got worse after using this,RLF5YHRF2WAJJ,NEGATIVE,0.01
+19-08-2024,TRUE,B08T68ZMGL,5,Great buy,bonsai responded beautifully to this treatment,R7W0VQDEEEQDB,POSITIVE,0.9857
+12-06-2024,TRUE,B08T68ZMGL,3,Moderate effect,My hibiscus showed slight change but it took 4 weeks,RYRRCPMD2DF8H,NEUTRAL,0.6899
+26-10-2025,TRUE,B08T68ZMGL,3,Moderate effect,Some improvement in my terrace garden but expected more,R58KN543PDPZ2,POSITIVE,0.9797
+27-12-2024,TRUE,B08T68ZMGL,2,Disappointed,My vegetables actually got worse after using this,RNDBEVQ3MRC5Q,NEGATIVE,0.0118
+27-11-2025,TRUE,B08T68ZMGL,3,Average product,Average performance with my flowering plants - a few flowers,RFFAF664HI3K7,NEUTRAL,0.68
+24-08-2023,TRUE,B08T68ZMGL,4,Effective product,Visible difference in my money plants after 3 weeks,R34218HR09YNS,NEUTRAL,0.6856
+22-11-2023,TRUE,B08T68ZMGL,4,Life saver for plants,Excellent results with my lawn - saw improvement in just 13 days,RLCOCB8DELZVT,POSITIVE,0.9935
+25-05-2023,TRUE,B08T68ZMGL,5,Highly recommended,Wonderful product! My herb garden growing vigorously,RDMNHE6ZYT0C1,POSITIVE,0.9966
+08-06-2025,TRUE,B08T68ZMGL,2,Disappointed,No visible change in my succulents condition,RSCXXHNP3DLPV,POSITIVE,0.8863
+14-08-2024,FALSE,B08T68ZMGL,1,Not effective,No visible change in my vegetables condition,R6G4N87RN3FP5,NEUTRAL,0.6547
+05-10-2025,TRUE,B08T68ZMGL,3,Okay results,My marigold showed moderate growth but it took a month,R44JQ3OVXRLND,NEUTRAL,0.6872
+19-08-2023,TRUE,B08T68ZMGL,5,Great buy,My plants flower abundantly. Thanks!,R33QXQ4DUYK02,POSITIVE,0.9962
+24-04-2025,TRUE,B08T68ZMGL,5,Highly recommended,This product saved my dying flowering plants - now they're 100% guarantee,R7EJG5XUHGL5N,POSITIVE,0.9884
+17-12-2025,TRUE,B08T68ZMGL,1,Not effective,Overpriced and ineffective for orchids,RKM7AY2T5PUX8,NEGATIVE,0.0109
+23-11-2022,FALSE,B08T68ZMGL,1,Not effective,No visible change in my tulsi condition,RZJCOZREJAP7U,NEUTRAL,0.6641
+09-10-2022,TRUE,B08T68ZMGL,4,Effective product,The terrace garden in my garden are now greener than ever thanks to this product,RFHW7S7NDU3SU,POSITIVE,0.9965
+18-04-2022,TRUE,B08T68ZMGL,5,Life saver for plants,Wonderful product! My succulents growing vigorously,R4ICF5Q84EAL6,POSITIVE,0.9965
+23-01-2024,TRUE,B08T68ZMGL,1,Not effective,No visible change in my money plants condition,R044NW8LZHO3L,NEUTRAL,0.6604
+05-01-2025,FALSE,B08T68ZMGL,5,Effective product,The indoor plants in my garden are now pest-free now thanks to this product,R6T0KJTHILPS4,POSITIVE,0.9874
+09-09-2022,TRUE,B08T68ZMGL,1,Harmful product,This product damaged my vegetables - now they're still struggling,R1KN39R34AY6Z,NEGATIVE,0.0102
+24-11-2025,TRUE,B08T68ZMGL,4,Amazing results!,Excellent results with my indoor plants - saw improvement in just 15 days,RBWZLION115U7,POSITIVE,0.9936
+18-06-2023,TRUE,B08T68ZMGL,4,Amazing results!,This product saved my dying orchids - now they're more vibrant colors,RDWE29FPJ2QZP,POSITIVE,0.9946
+10-10-2023,FALSE,B08T68ZMGL,5,Happy with purchase,My plants flower abundantly. Thanks!,RZF0L243J2NDC,POSITIVE,0.9962
+10-09-2022,TRUE,B08T68ZMGL,4,Amazing results!,Excellent results with my indoor plants - saw improvement in just 8 days,R6QBTHJPVJLW6,POSITIVE,0.9936
+20-01-2022,TRUE,B08T68ZMGL,3,Moderate effect,My flowering plants are doing okay but not exceptional,ROPN5K9XNDROF,NEGATIVE,0.1106
+14-04-2023,FALSE,B08T68ZMGL,5,Effective product,My terrace garden have never looked better - greener than ever,RAUYEB32QY52Q,POSITIVE,0.9956
+04-11-2025,TRUE,B08T68ZMGL,5,Life saver for plants,Excellent results with my money plants - saw improvement in just 13 days,RZVPEMWQPPQ8Q,POSITIVE,0.9919
+08-12-2024,FALSE,B08T68ZMGL,3,Moderate effect,Some improvement in my tulsi but expected more,RW6D4C1H6YCOT,POSITIVE,0.9026
+16-07-2025,TRUE,B08T68ZMGL,1,Disappointed,Expected better results with my indoor plants but showing signs of stress,RK7AXNT1GMHCM,NEUTRAL,0.59
+01-06-2024,TRUE,B08T68ZMGL,5,Life saver for plants,Excellent results with my hibiscus - saw improvement in just 12 days,RH3I54H5N8EAF,POSITIVE,0.9936
+12-01-2022,TRUE,B08T68ZMGL,5,Happy with purchase,My hibiscus have never looked better - looking healthier,RCV761EQW57HN,POSITIVE,0.9961
+07-03-2024,TRUE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my bonsai - looking healthier,R4YS4C0O1TFL0,POSITIVE,0.9892
+26-05-2023,TRUE,B08T68ZMGL,5,Highly recommended,"My bonsai are thriving with this product, fruiting abundantly",RA49PNFHS3QL6,POSITIVE,0.9966
+29-01-2023,TRUE,B08T68ZMGL,1,Total waste,Complete waste of money for my fruit trees - getting infected,RXFM31EBM8CHI,NEGATIVE,0.0113
+08-04-2022,TRUE,B08T68ZMGL,5,Great buy,hibiscus responded beautifully to this treatment,R60NBAALF9HC4,POSITIVE,0.9948
+07-03-2023,TRUE,B08T68ZMGL,4,Amazing results!,This product saved my dying terrace garden - now they're more vibrant colors,RL33ML1YVT6G3,POSITIVE,0.9952
+31-03-2022,TRUE,B08T68ZMGL,3,Moderate effect,Not bad but not great for my orchids,R4FPWRUKCDM4F,NEGATIVE,0.0201
+05-05-2022,FALSE,B08T68ZMGL,4,Great buy,The vegetables in my garden are now looking healthier thanks to this product,RSOQEOVY5RDSE,POSITIVE,0.9955
+20-12-2025,TRUE,B08T68ZMGL,4,Highly recommended,Wonderful product! My rose plants more vibrant colors,RP9UA948JANX9,POSITIVE,0.9967
+19-07-2025,TRUE,B08T68ZMGL,4,Great buy,Visible difference in my succulents after 2 weeks,RLD2PJPEMB2TT,NEUTRAL,0.6882
+22-02-2024,TRUE,B08T68ZMGL,5,Effective product,vegetables responded beautifully to this treatment,RY9ML7FB7MUEG,POSITIVE,0.9897
+27-12-2022,TRUE,B08T68ZMGL,5,Amazing results!,Wonderful product! My terrace garden growing vigorously,R6HQN056EL228,POSITIVE,0.9966
+13-02-2024,TRUE,B08T68ZMGL,2,Damaged my plants,Would not recommend for hibiscus - damaged product,RD30TX4R9XLS0,NEGATIVE,0.0228
+28-06-2024,TRUE,B08T68ZMGL,2,False claims,Complete waste of money for my tulsi - leaves turning yellow,RTBH8J9J01J3V,NEGATIVE,0.0104
+11-08-2023,TRUE,B08T68ZMGL,4,Great buy,Visible difference in my marigold after 2 weeks,R8VDVT4633YCM,NEUTRAL,0.6882
+07-01-2023,TRUE,B08T68ZMGL,4,Highly recommended,Excellent results with my marigold - saw improvement in just 16 days,RO5OATC3WNXTP,POSITIVE,0.9912
+06-09-2024,TRUE,B08T68ZMGL,4,Amazing results!,Wonderful product! My tulsi looking healthier,RT4FQ5B4RCHHZ,POSITIVE,0.9966
+29-12-2024,TRUE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,RHJ83PIRT73D7,POSITIVE,0.9962
+10-01-2024,FALSE,B08T68ZMGL,2,No results,No visible change in my lawn condition,RUVTA5UYW8T24,NEUTRAL,0.67
+07-12-2025,TRUE,B08T68ZMGL,3,Okay results,My herb garden are doing okay but not exceptional,R3KHL55580TER,NEGATIVE,0.3125
+13-08-2025,TRUE,B08T68ZMGL,4,Effective product,Works exactly as described on my herb garden - recovered completely,RPA5V1RI0TOVJ,POSITIVE,0.9874
+04-12-2024,FALSE,B08T68ZMGL,2,False claims,False claims - my herb garden show no difference,RDYQE2ETZL2OH,NEGATIVE,0.1872
+02-08-2022,TRUE,B08T68ZMGL,5,Visible improvement,Significant improvement in tulsi health and fruit production,R2LU1AJ2LRBJM,POSITIVE,0.9932
+10-07-2022,TRUE,B08T68ZMGL,5,Great buy,The hibiscus in my garden are now more vibrant colors thanks to this product,RX0CAE7RQZP3E,POSITIVE,0.9957
+18-03-2022,TRUE,B08T68ZMGL,1,Disappointed,"Did nothing for my lawn, very disappointed",RA5GV3PVTNR5Y,NEGATIVE,0.0109
+30-10-2025,FALSE,B08T68ZMGL,5,Amazing results!,Wonderful product! My bonsai pest-free now,RD7L25MHS5VJY,POSITIVE,0.9945
+27-11-2022,FALSE,B08T68ZMGL,1,Total waste,Complete waste of money for my bonsai - not responding,R2KC2PGZZRFXX,NEGATIVE,0.0122
+25-10-2025,FALSE,B08T68ZMGL,3,Okay results,Some improvement in my bonsai but expected more,R4DUYDOI9VOMN,POSITIVE,0.9414
+21-11-2022,TRUE,B08T68ZMGL,1,No results,Would not recommend for herb garden - leaves turning yellow,RKU8VOCGJT363,NEGATIVE,0.0155
+22-05-2025,TRUE,B08T68ZMGL,3,Average product,My flowering plants showed slight change but it took 4 weeks,RHPHA15GNB1LD,NEUTRAL,0.6891
+01-11-2025,FALSE,B08T68ZMGL,3,Average product,My terrace garden showed some improvement but it took a month,RF96592VGF7W6,POSITIVE,0.8881
+11-11-2025,TRUE,B08T68ZMGL,5,Happy with purchase,terrace garden responded beautifully to this treatment,RSYFWKTKW7QK5,POSITIVE,0.9892
+12-10-2025,TRUE,B08T68ZMGL,5,Life saver for plants,Wonderful product! My rose plants looking healthier,REI0GT4GY37ZF,POSITIVE,0.9964
+30-01-2022,TRUE,B08T68ZMGL,4,Good product,Significant improvement in orchids health and flowering,RDDABT4HZECTF,POSITIVE,0.9958
+03-05-2025,TRUE,B08T68ZMGL,3,Okay results,Moderate results with my terrace garden - temporary effect,R5FANOMPXW33U,NEUTRAL,0.6922
+05-04-2025,TRUE,B08T68ZMGL,4,Good product,Significant improvement in orchids health and growth,RTOU7RJ4UYCSG,POSITIVE,0.9963
+10-09-2025,TRUE,B08T68ZMGL,2,Disappointed,Overpriced and ineffective for rose plants,R9USE8WE05DTT,NEGATIVE,0.0127
+16-03-2024,TRUE,B08T68ZMGL,5,Great buy,The vegetables in my garden are now growing faster thanks to this product,RTSK4MZ6WIF3S,POSITIVE,0.9956
+11-07-2022,TRUE,B08T68ZMGL,5,Happy with purchase,My plants flower abundantly. Thanks!,R00R5MJZK0QZM,POSITIVE,0.9962
+18-05-2023,TRUE,B08T68ZMGL,1,Total waste,"The product is duplicate, waste of money.",RQTD91250ZV3X,NEGATIVE,0.0138
+02-03-2023,FALSE,B08T68ZMGL,4,Happy with purchase,indoor plants responded beautifully to this treatment,REH02Y2ODBWT6,POSITIVE,0.9917
+18-09-2024,FALSE,B08T68ZMGL,4,Happy with purchase,The succulents in my garden are now producing more flowers thanks to this product,RZL0I94LJIR7D,POSITIVE,0.9954
+17-09-2022,TRUE,B08T68ZMGL,1,Not effective,"Did nothing for my terrace garden, very disappointed",R9HYCJAQHIE66,NEGATIVE,0.011
+26-09-2024,FALSE,B08T68ZMGL,5,Amazing results!,"My flowering plants are thriving with this product, greener than ever",RFGL9B3D7CWTG,POSITIVE,0.9967
+22-12-2024,FALSE,B08T68ZMGL,2,Not effective,My orchids actually got worse after using this,RC16BSC2NDS4B,NEGATIVE,0.0119
+11-03-2023,TRUE,B08T68ZMGL,5,Happy with purchase,My fruit trees have never looked better - fruiting abundantly,RI3ALVU2WFRBB,POSITIVE,0.9958
+01-11-2023,TRUE,B08T68ZMGL,5,Life saver for plants,Excellent results with my bonsai - saw improvement in just 11 days,RL800SK0G4Y1J,POSITIVE,0.9916
+12-10-2023,TRUE,B08T68ZMGL,5,Highly recommended,Excellent results with my succulents - saw improvement in just 8 days,RREKBMEPGUY4D,POSITIVE,0.9943
+11-06-2024,FALSE,B08T68ZMGL,4,Life saver for plants,Excellent results with my fruit trees - saw improvement in just 20 days,R83QTTJ0O1V11,POSITIVE,0.9929
+03-09-2022,TRUE,B08T68ZMGL,5,Great buy,The terrace garden in my garden are now greener than ever thanks to this product,R4VRVYEG4IKNZ,POSITIVE,0.9965
+12-05-2023,FALSE,B08T68ZMGL,5,Highly recommended,"My fruit trees are thriving with this product, growing vigorously",RNQ72Y207T637,POSITIVE,0.9967
+24-09-2022,TRUE,B08T68ZMGL,5,Effective product,money plants responded beautifully to this treatment,R7DZVIS6A5BVN,POSITIVE,0.9894
+17-09-2025,TRUE,B08T68ZMGL,4,Life saver for plants,"My herb garden are thriving with this product, recovered completely",RJC4JC7EFCFD1,POSITIVE,0.9964
+28-11-2024,TRUE,B08T68ZMGL,5,Effective product,fruit trees responded beautifully to this treatment,RFONY7119238M,POSITIVE,0.9907
+21-02-2023,TRUE,B08T68ZMGL,5,Amazing results!,"My flowering plants are thriving with this product, greener than ever",RCALQ3IPHAW8B,POSITIVE,0.9967
+30-12-2022,TRUE,B08T68ZMGL,4,Happy with purchase,My terrace garden have never looked better - 100% guarantee,RZV6R0CH0VH10,POSITIVE,0.9952
+19-11-2023,TRUE,B08T68ZMGL,5,Great buy,Visible difference in my tulsi after 4 weeks,RGQZ9HD0CPWRU,NEUTRAL,0.6861
+12-09-2025,FALSE,B08T68ZMGL,2,Disappointed,Expected better results with my hibiscus but leaves turning yellow,RZC1KPF73XD39,NEGATIVE,0.1636
+04-05-2024,TRUE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my marigold - 100% guarantee,RY96KPU4SKSC3,POSITIVE,0.9687
+13-05-2022,TRUE,B08T68ZMGL,4,Happy with purchase,My plants flower abundantly. Thanks!,RS01AL1BFN09C,POSITIVE,0.9962
+19-08-2023,FALSE,B08T68ZMGL,4,Effective product,hibiscus responded beautifully to this treatment,R7HCTMFY39ABK,POSITIVE,0.9948
+13-02-2023,TRUE,B08T68ZMGL,5,Great buy,The money plants in my garden are now fruiting abundantly thanks to this product,RA3KMJDVF4FBX,POSITIVE,0.9957
+24-02-2022,FALSE,B08T68ZMGL,5,Visible improvement,Significant improvement in terrace garden health and fruit production,RYFRMA8I4JKAR,POSITIVE,0.9945
+23-08-2025,TRUE,B08T68ZMGL,5,Amazing results!,Excellent results with my succulents - saw improvement in just 14 days,R3LTKOV4LIPPI,POSITIVE,0.9943
+14-01-2022,TRUE,B08T68ZMGL,5,Happy with purchase,Visible difference in my vegetables after 4 weeks,RTM725VI830IE,NEUTRAL,0.6885
+08-06-2025,TRUE,B08T68ZMGL,3,Moderate effect,My indoor plants showed some improvement but it took a month,ROUMFM6TN6QJH,POSITIVE,0.8567
+08-08-2022,TRUE,B08T68ZMGL,4,Happy with purchase,My orchids have never looked better - greener than ever,RGT5A4EK1NNGW,POSITIVE,0.9949
+27-10-2024,FALSE,B08T68ZMGL,4,Effective product,My bonsai have never looked better - looking healthier,R7WII65NKGU5S,POSITIVE,0.9955
+04-11-2024,TRUE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,RRI4BYCME1U53,POSITIVE,0.9962
+26-02-2024,TRUE,B08T68ZMGL,5,Great buy,Visible difference in my terrace garden after 4 weeks,RRF2M4U2RLUXB,NEUTRAL,0.6939
+22-10-2025,TRUE,B08T68ZMGL,5,Happy with purchase,My plants flower abundantly. Thanks!,RA75TT6KMO7TW,POSITIVE,0.9962
+08-08-2025,TRUE,B08T68ZMGL,5,Effective product,Works exactly as described on my orchids - pest-free now,RJ67TICWUSFMV,POSITIVE,0.9492
+12-01-2025,TRUE,B08T68ZMGL,4,Great buy,Works exactly as described on my money plants - growing vigorously,RB8XX9P2VY2KU,POSITIVE,0.9897
+08-04-2025,FALSE,B08T68ZMGL,3,Moderate effect,Average performance with my lawn - slight growth,RGX91C9CR5JQX,POSITIVE,0.9507
+02-05-2024,FALSE,B08T68ZMGL,4,Happy with purchase,My fruit trees have never looked better - more vibrant colors,RLM2JY911INFA,POSITIVE,0.9956
+16-02-2024,TRUE,B08T68ZMGL,1,No results,No improvement in my rose plants even after 3 weeks,ROQJ1RPFF4FWZ,NEGATIVE,0.0862
+11-04-2023,TRUE,B08T68ZMGL,4,Visible improvement,Significant improvement in terrace garden health and flowering,RERTJ1SV822FA,POSITIVE,0.9946
+28-05-2023,TRUE,B08T68ZMGL,4,Highly recommended,Wonderful product! My indoor plants recovered completely,RX7PTWUFADJV8,POSITIVE,0.9964
+15-12-2025,FALSE,B08T68ZMGL,2,Disappointed,Would not recommend for herb garden - still struggling,RYH2WUIAJ4QS1,NEGATIVE,0.0169
+26-02-2024,TRUE,B08T68ZMGL,5,Happy with purchase,My succulents have never looked better - recovered completely,RAY2UD0DF8DNJ,POSITIVE,0.9949
+25-04-2025,TRUE,B08T68ZMGL,4,Life saver for plants,This product saved my dying lawn - now they're more vibrant colors,R70QMVSXRTJYX,POSITIVE,0.994
+15-08-2024,FALSE,B08T68ZMGL,5,Great buy,The flowering plants in my garden are now growing faster thanks to this product,RQX40SY38JCEM,POSITIVE,0.9957
+20-10-2023,TRUE,B08T68ZMGL,5,Happy with purchase,My plants flower abundantly. Thanks!,RUUF001CMKEK2,POSITIVE,0.9962
+10-10-2024,TRUE,B08T68ZMGL,2,Disappointed,No visible change in my hibiscus condition,R4M5M141OUK1P,NEUTRAL,0.6764
+12-08-2022,TRUE,B08T68ZMGL,5,Highly recommended,Excellent results with my indoor plants - saw improvement in just 17 days,R2FI8BDTENV5B,POSITIVE,0.9939
+25-11-2022,TRUE,B08T68ZMGL,2,False claims,"The product is duplicate, waste of money.",RDA5L37BPQSPX,NEGATIVE,0.0138
+22-03-2025,TRUE,B08T68ZMGL,4,Amazing results!,Wonderful product! My succulents growing vigorously,RMQJ4VSLNIB7K,POSITIVE,0.9965
+25-08-2022,TRUE,B08T68ZMGL,3,Okay results,Takes too long to show results on terrace garden,ROGYE2K2DH8S8,NEUTRAL,0.6169
+25-09-2025,TRUE,B08T68ZMGL,1,Disappointed,"Would not recommend for marigold - Cheating, no use",R49AB2FZKMRWV,NEGATIVE,0.0205
+02-06-2024,FALSE,B08T68ZMGL,4,Great buy,flowering plants responded beautifully to this treatment,R062IJDF4P8AC,POSITIVE,0.9944
+28-12-2023,TRUE,B08T68ZMGL,2,Damaged my plants,This product damaged my orchids - now they're damaged product,RYWMQFRPQQLTI,NEGATIVE,0.0112
+28-12-2022,TRUE,B08T68ZMGL,4,Happy with purchase,The orchids in my garden are now 100% guarantee thanks to this product,RILY3ACKWKUFB,POSITIVE,0.975
+14-06-2025,TRUE,B08T68ZMGL,4,Highly recommended,Excellent results with my vegetables - saw improvement in just 20 days,RBC5AH86X9L38,POSITIVE,0.9926
+10-01-2025,FALSE,B08T68ZMGL,4,Effective product,Works exactly as described on my fruit trees - looking healthier,RJ7HTDAYFG4GX,POSITIVE,0.9896
+27-08-2022,TRUE,B08T68ZMGL,4,Works well,Significant improvement in bonsai health and flowering,RYSQ825CGQO2O,POSITIVE,0.9929
+06-07-2025,TRUE,B08T68ZMGL,1,Don't buy,Complete waste of money for my flowering plants - flowers stopped coming,R1M04DXO95TQA,NEGATIVE,0.0113
+25-12-2025,TRUE,B08T68ZMGL,4,Effective product,Visible difference in my lawn after 3 weeks,R6F9DLMHN6A8A,NEUTRAL,0.6905
+12-08-2023,TRUE,B08T68ZMGL,5,Amazing results!,This product saved my dying orchids - now they're greener than ever,RFG8F6YNCE4VU,POSITIVE,0.9956
+17-04-2024,TRUE,B08T68ZMGL,2,False claims,False claims - my succulents show no difference,R2R9BEFEW9QCT,NEGATIVE,0.2388
+10-06-2025,TRUE,B08T68ZMGL,5,Effective product,The fruit trees in my garden are now growing faster thanks to this product,RL4JY0DSBCR21,POSITIVE,0.9953
+10-11-2023,FALSE,B08T68ZMGL,4,Great buy,Works exactly as described on my vegetables - fruiting abundantly,REJ80URIIS1A0,POSITIVE,0.9931
+07-07-2023,TRUE,B08T68ZMGL,4,Great buy,rose plants responded beautifully to this treatment,RV2IPQ0QJX3LE,POSITIVE,0.9921
+16-07-2023,TRUE,B08T68ZMGL,2,Not effective,Overpriced and ineffective for money plants,RG3YKDF8EAAPI,NEGATIVE,0.0131
+20-02-2022,TRUE,B08T68ZMGL,5,Visible improvement,Significant improvement in herb garden health and fruit production,RE8DKNBTZ36VH,POSITIVE,0.995
+01-06-2023,TRUE,B08T68ZMGL,4,Great buy,The flowering plants in my garden are now growing faster thanks to this product,REQU1OLV97KHH,POSITIVE,0.9957
+16-06-2022,FALSE,B08T68ZMGL,3,Moderate effect,Not bad but not great for my fruit trees,RXF240I47V4VH,NEGATIVE,0.0377
+26-08-2023,TRUE,B08T68ZMGL,5,Great buy,Works exactly as described on my vegetables - producing more flowers,RPV9BWK5AOSYD,POSITIVE,0.9624
+28-08-2024,TRUE,B08T68ZMGL,5,Effective product,Visible difference in my bonsai after 3 weeks,R0E52ZB6OJB2G,NEUTRAL,0.685
+22-05-2024,TRUE,B08T68ZMGL,5,Great buy,Works exactly as described on my succulents - pest-free now,RLBME9JN25QA9,POSITIVE,0.9256
+01-10-2025,FALSE,B08T68ZMGL,5,Effective product,The terrace garden in my garden are now more vibrant colors thanks to this product,RW7087XM5H02Y,POSITIVE,0.9951
+12-02-2024,TRUE,B08T68ZMGL,5,Great buy,My plants flower abundantly. Thanks!,RRPCUB2L75M95,POSITIVE,0.9962
+21-02-2022,TRUE,B08T68ZMGL,5,Effective product,bonsai responded beautifully to this treatment,RVURCFMVX6DXZ,POSITIVE,0.9857
+04-06-2023,FALSE,B08T68ZMGL,5,Great buy,Visible difference in my lawn after 4 weeks,RI09NNEZP92K1,NEUTRAL,0.6889
+22-01-2025,FALSE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,RT11W5QV4FU2M,POSITIVE,0.9962
+11-10-2023,FALSE,B08T68ZMGL,4,Happy with purchase,Works exactly as described on my tulsi - 100% guarantee,RW6ZPD0NEO26R,POSITIVE,0.963
+21-12-2022,TRUE,B08T68ZMGL,5,Highly recommended,Wonderful product! My hibiscus greener than ever,RMUXBK4GU3X3X,POSITIVE,0.9965
+07-02-2024,TRUE,B08T68ZMGL,4,Amazing results!,This product saved my dying vegetables - now they're producing more flowers,RGVXBOXVQQBDA,POSITIVE,0.9942
+16-06-2023,FALSE,B08T68ZMGL,5,Great buy,Visible difference in my flowering plants after 2 weeks,RP9HKCNGMT1UD,NEUTRAL,0.6842
+28-10-2024,TRUE,B08T68ZMGL,4,Visible improvement,Significant improvement in herb garden health and leaf color,RJQ9I779XIMHG,POSITIVE,0.9948
+17-01-2022,TRUE,B08T68ZMGL,5,Effective product,The succulents in my garden are now pest-free now thanks to this product,R5HCW6C5JRFML,POSITIVE,0.9879
+07-09-2023,TRUE,B08T68ZMGL,5,Happy with purchase,Visible difference in my bonsai after 4 weeks,R1X8XX3F9KL55,NEUTRAL,0.6821
+17-10-2022,TRUE,B08T68ZMGL,4,Amazing results!,Wonderful product! My orchids pest-free now,RSG505VA28738,POSITIVE,0.9958
+02-12-2025,TRUE,B08T68ZMGL,5,Effective product,My rose plants have never looked better - growing vigorously,R7HDG8XDBXEBA,POSITIVE,0.9964
+16-04-2025,TRUE,B08T68ZMGL,5,Good product,Significant improvement in orchids health and fruit production,R0V68DI0LE28H,POSITIVE,0.9959
+30-09-2023,TRUE,B08T68ZMGL,5,Life saver for plants,"My flowering plants are thriving with this product, 100% guarantee",RDT1YF5OUG2O3,POSITIVE,0.9963
+20-07-2024,TRUE,B08T68ZMGL,1,Not effective,Overpriced and ineffective for vegetables,R0NOF1FQ4TWIS,NEGATIVE,0.0127
+20-12-2025,TRUE,B08T68ZMGL,5,Amazing results!,Wonderful product! My hibiscus blooming continuously,RL7TQG1A4HDWO,POSITIVE,0.9966
+04-05-2024,TRUE,B08T68ZMGL,5,Great buy,succulents responded beautifully to this treatment,R0BMLC1Q833QM,POSITIVE,0.9902
+03-02-2024,TRUE,B08T68ZMGL,5,Great buy,My terrace garden have never looked better - fruiting abundantly,R1LQT3IQCMAE6,POSITIVE,0.9958
+13-09-2023,TRUE,B08T68ZMGL,1,No results,My tulsi actually got worse after using this,RMJSO1K7X9O6I,NEGATIVE,0.012
+28-04-2024,TRUE,B08T68ZMGL,5,Life saver for plants,Wonderful product! My marigold greener than ever,RN9GSM38P7MQL,POSITIVE,0.9962
+29-11-2023,TRUE,B08T68ZMGL,5,Effective product,The succulents in my garden are now blooming continuously thanks to this product,RBT5UHJ6EENK2,POSITIVE,0.9963
+13-07-2024,TRUE,B08T68ZMGL,5,Happy with purchase,Visible difference in my hibiscus after 4 weeks,RO1M6CFZ0ZKH8,NEUTRAL,0.6927
+15-08-2022,TRUE,B08T68ZMGL,3,Okay results,My vegetables showed some improvement but it took several applications,RK65RQEERFLBD,NEUTRAL,0.645
+10-08-2023,TRUE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my lawn - fruiting abundantly,RTGX6AJCG6WDN,POSITIVE,0.9938
+23-06-2025,TRUE,B08T68ZMGL,3,Average product,Takes too long to show results on flowering plants,RI2KE0L5MOY0L,NEUTRAL,0.618
+06-05-2023,TRUE,B08T68ZMGL,2,No results,Would not recommend for lawn - Where is my money?,R6XXBAW7G8LZS,NEGATIVE,0.0204
+24-05-2022,TRUE,B08T68ZMGL,3,Average product,Moderate results with my lawn - slow progress,R01OVZV2F9P4R,NEGATIVE,0.0764
+23-03-2022,FALSE,B08T68ZMGL,4,Happy with purchase,My bonsai have never looked better - producing more flowers,RDPINF459TR46,POSITIVE,0.9955
+21-11-2025,TRUE,B08T68ZMGL,5,Great buy,Visible difference in my vegetables after 3 weeks,R2WH89AGSPKLR,NEUTRAL,0.6897
+21-11-2022,TRUE,B08T68ZMGL,5,Effective product,Visible difference in my rose plants after 3 weeks,RKAPO5S4LU98U,NEUTRAL,0.6843
+15-12-2022,TRUE,B08T68ZMGL,4,Life saver for plants,Excellent results with my orchids - saw improvement in just 11 days,RZNLIIDXNVHHD,POSITIVE,0.9947
+02-09-2022,TRUE,B08T68ZMGL,4,Happy with purchase,Visible difference in my terrace garden after 2 weeks,RNCGWWUUSI87N,NEUTRAL,0.6943
+06-12-2024,TRUE,B08T68ZMGL,4,Great buy,Works exactly as described on my terrace garden - growing faster,R89QON8OG1LJ3,POSITIVE,0.9906
+05-04-2025,TRUE,B08T68ZMGL,4,Amazing results!,Wonderful product! My marigold producing more flowers,RH3V1S2HFH3LL,POSITIVE,0.9963
+12-06-2025,TRUE,B08T68ZMGL,4,Good product,Significant improvement in orchids health and flowering,RRZ9E9MBHAN9J,POSITIVE,0.9958
+09-11-2024,FALSE,B08T68ZMGL,5,Happy with purchase,My succulents have never looked better - recovered completely,RG52FAXFMJ6SR,POSITIVE,0.9949
+08-10-2025,TRUE,B08T68ZMGL,5,Effective product,Works exactly as described on my terrace garden - 100% guarantee,R55RSUL5YZNSS,POSITIVE,0.9712
+08-10-2023,TRUE,B08T68ZMGL,5,Effective product,bonsai responded beautifully to this treatment,RGFEFREYCSZR0,POSITIVE,0.9857
+30-10-2023,TRUE,B08T68ZMGL,4,Happy with purchase,succulents responded beautifully to this treatment,RKQSMF925QXLY,POSITIVE,0.9902
+15-04-2025,FALSE,B08T68ZMGL,3,Okay results,My money plants showed some improvement but it took several applications,RD3N9DX34QBRE,NEUTRAL,0.6432
+18-03-2025,TRUE,B08T68ZMGL,4,Happy with purchase,orchids responded beautifully to this treatment,RJNKTO5RVPQYD,POSITIVE,0.9937
+12-02-2023,TRUE,B08T68ZMGL,1,Disappointed,Overpriced and ineffective for vegetables,ROP9Q04EEH1JW,NEGATIVE,0.0127
+23-07-2025,TRUE,B08T68ZMGL,4,Works well,Significant improvement in orchids health and fruit production,R223K45IUKGN6,POSITIVE,0.9959
+24-03-2025,TRUE,B08T68ZMGL,5,Great buy,tulsi responded beautifully to this treatment,RCIOTF0K0T08F,POSITIVE,0.9787
+22-03-2025,TRUE,B08T68ZMGL,4,Effective product,My plants flower abundantly. Thanks!,RXWPK65B3JY14,POSITIVE,0.9962
+18-05-2024,TRUE,B08T68ZMGL,4,Amazing results!,This product saved my dying terrace garden - now they're 100% guarantee,RZ8XR0VX4Y0VU,POSITIVE,0.9903
+10-07-2022,TRUE,B08T68ZMGL,4,Effective product,My bonsai have never looked better - fruiting abundantly,RYIKI57XQCZE7,POSITIVE,0.996
+10-05-2024,TRUE,B08T68ZMGL,5,Great buy,bonsai responded beautifully to this treatment,REUCYUFUAZ3NE,POSITIVE,0.9857
+19-01-2022,TRUE,B08T68ZMGL,5,Great buy,My plants flower abundantly. Thanks!,R45PR2SVNDE56,POSITIVE,0.9962
+19-09-2023,TRUE,B08T68ZMGL,3,Average product,My vegetables are doing okay but not exceptional,REDUM101GQ5EJ,NEGATIVE,0.1413
+16-05-2022,TRUE,B08T68ZMGL,1,Total waste,Complete waste of money for my vegetables - not responding,R4HZUJ4LMBGW4,NEGATIVE,0.0114
+15-03-2025,FALSE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,R774X823EV386,POSITIVE,0.9962
+07-02-2024,TRUE,B08T68ZMGL,5,Great buy,My herb garden have never looked better - growing faster,RNKX1WD17651S,POSITIVE,0.9958
+28-03-2025,FALSE,B08T68ZMGL,5,Effective product,The rose plants in my garden are now pest-free now thanks to this product,REZG9FQNICZ6C,POSITIVE,0.9914
+19-01-2024,TRUE,B08T68ZMGL,2,Don't buy,"Complete waste of money for my succulents - Cheating, no use",RF0J3ZT4P4CGJ,NEGATIVE,0.0131
+04-02-2022,TRUE,B08T68ZMGL,3,Moderate effect,My tulsi are doing okay but not exceptional,R7QISKJ1JJOZ6,NEGATIVE,0.2909
+02-06-2025,FALSE,B08T68ZMGL,4,Effective product,My plants flower abundantly. Thanks!,RF71YEEIFHBPA,POSITIVE,0.9962
+25-11-2022,TRUE,B08T68ZMGL,5,Great buy,The fruit trees in my garden are now producing more flowers thanks to this product,RRTY8SNE6U2Y9,POSITIVE,0.995
+19-07-2023,TRUE,B08T68ZMGL,1,Harmful product,This product damaged my herb garden - now they're flowers stopped coming,RR04B3MGNA4QG,NEGATIVE,0.0104
+13-04-2025,TRUE,B08T68ZMGL,5,Effective product,marigold responded beautifully to this treatment,R6PVHAI3QYV8U,POSITIVE,0.9876
+05-11-2023,TRUE,B08T68ZMGL,5,Life saver for plants,Excellent results with my flowering plants - saw improvement in just 17 days,RFUZ23T8HLN3S,POSITIVE,0.995
+09-08-2025,TRUE,B08T68ZMGL,5,Effective product,Works exactly as described on my orchids - blooming continuously,RYK4RCOWFEQCS,POSITIVE,0.9955
+06-01-2023,TRUE,B08T68ZMGL,1,Total waste,"The product is duplicate, waste of money.",R0Y3XSQU9TCZ8,NEGATIVE,0.0138
+25-01-2025,TRUE,B08T68ZMGL,4,Great buy,My terrace garden have never looked better - greener than ever,RNQRS6H3CJSYB,POSITIVE,0.9956
+19-12-2025,TRUE,B08T68ZMGL,4,Works well,Significant improvement in succulents health and flowering,RHCFD5606BINA,POSITIVE,0.9942
+20-09-2025,TRUE,B08T68ZMGL,4,Great buy,The flowering plants in my garden are now fruiting abundantly thanks to this product,RE9PJEX3YTVAK,POSITIVE,0.9962
+24-11-2025,TRUE,B08T68ZMGL,4,Amazing results!,Excellent results with my bonsai - saw improvement in just 10 days,RZ88N7080MUEJ,POSITIVE,0.9914
+16-01-2024,TRUE,B08T68ZMGL,5,Effective product,Works exactly as described on my vegetables - 100% guarantee,RS9DWXBCY4UZ8,POSITIVE,0.9722
+22-05-2025,TRUE,B08T68ZMGL,4,Great buy,Works exactly as described on my hibiscus - growing faster,R8CPZT89UGFL2,POSITIVE,0.9911
+30-10-2022,FALSE,B08T68ZMGL,3,Okay results,Works somewhat for rose plants but needs improvement,R2CY99W0LFR4E,POSITIVE,0.8932
+27-10-2025,TRUE,B08T68ZMGL,5,Great buy,My plants flower abundantly. Thanks!,RLVY1RLR22E57,POSITIVE,0.9962
+11-11-2023,TRUE,B08T68ZMGL,3,Okay results,My money plants are doing okay but not exceptional,R3YKYDEP4C3CP,NEGATIVE,0.301
+18-08-2025,TRUE,B08T68ZMGL,2,No results,"Did nothing for my hibiscus, very disappointed",RMCRI0LZ2D6YJ,NEGATIVE,0.012
+22-01-2023,FALSE,B08T68ZMGL,5,Amazing results!,Excellent results with my indoor plants - saw improvement in just 19 days,RMHJZ3O5D6FUR,POSITIVE,0.9939
+30-10-2025,TRUE,B08T68ZMGL,5,Happy with purchase,The rose plants in my garden are now growing vigorously thanks to this product,R6IWHLZXXXJDG,POSITIVE,0.9962
+27-03-2022,TRUE,B08T68ZMGL,4,Great buy,Visible difference in my terrace garden after 2 weeks,RCWXTWPU3INBI,NEUTRAL,0.6943
+10-02-2023,TRUE,B08T68ZMGL,5,Great buy,Works exactly as described on my money plants - greener than ever,RAMEDHHBHDHSA,POSITIVE,0.9918
+09-04-2022,TRUE,B08T68ZMGL,4,Highly recommended,Excellent results with my lawn - saw improvement in just 10 days,RJ1A6Y1TVQI6D,POSITIVE,0.9933
+28-02-2023,TRUE,B08T68ZMGL,4,Effective product,My hibiscus have never looked better - pest-free now,RKM1DW4AWNWB6,POSITIVE,0.9934
+15-05-2024,TRUE,B08T68ZMGL,4,Good product,Significant improvement in terrace garden health and flowering,ROPWBXNWE0TDU,POSITIVE,0.9946
+21-09-2022,TRUE,B08T68ZMGL,5,Effective product,The indoor plants in my garden are now blooming continuously thanks to this product,RN8M4WH6BX9OX,POSITIVE,0.9963
+10-02-2025,FALSE,B08T68ZMGL,5,Great buy,The indoor plants in my garden are now growing vigorously thanks to this product,RU7I1H41D3O2F,POSITIVE,0.9957
+31-03-2022,TRUE,B08T68ZMGL,4,Great buy,The bonsai in my garden are now 100% guarantee thanks to this product,RKYCYXC7NE5A2,POSITIVE,0.982
+17-05-2025,FALSE,B08T68ZMGL,4,Great buy,My plants flower abundantly. Thanks!,RJK5Y2OEJM6XD,POSITIVE,0.9962
+03-09-2022,TRUE,B08T68ZMGL,4,Happy with purchase,Visible difference in my succulents after 3 weeks,RUR1J0THKDODW,NEUTRAL,0.6881
+08-01-2024,TRUE,B08T68ZMGL,5,Great buy,orchids responded beautifully to this treatment,R8AQYD95QFA1E,POSITIVE,0.9937
+05-05-2024,TRUE,B08T68ZMGL,1,Disappointed,"Did nothing for my flowering plants, very disappointed",RGGYGCN4J8PKY,NEGATIVE,0.013
+21-08-2024,TRUE,B08T68ZMGL,5,Great buy,My marigold have never looked better - pest-free now,R3NATRM17J5DI,POSITIVE,0.9925
+25-10-2025,FALSE,B08T68ZMGL,5,Happy with purchase,Visible difference in my rose plants after 4 weeks,RK5ES7EGV4XBX,NEUTRAL,0.681
+19-04-2022,FALSE,B08T68ZMGL,4,Amazing results!,"My succulents are thriving with this product, growing vigorously",RB3XCQYB2MBWG,POSITIVE,0.9967
+26-12-2024,TRUE,B08T68ZMGL,4,Great buy,indoor plants responded beautifully to this treatment,RWEKMPAU84YW3,POSITIVE,0.9917
+08-01-2023,TRUE,B08T68ZMGL,5,Works well,Significant improvement in bonsai health and leaf color,RG0HOCC3D6MOX,POSITIVE,0.9913
+10-10-2024,FALSE,B08T68ZMGL,4,Highly recommended,This product saved my dying succulents - now they're growing vigorously,R0WF6U6AIWHW1,POSITIVE,0.9957
+06-09-2025,FALSE,B08T68ZMGL,5,Effective product,My indoor plants have never looked better - producing more flowers,RG2J4ZMQ0DWD1,POSITIVE,0.9959
+11-12-2023,TRUE,B08T68ZMGL,5,Highly recommended,This product saved my dying terrace garden - now they're blooming continuously,RPJH9WX3NBI4T,POSITIVE,0.9959
+01-05-2023,TRUE,B08T68ZMGL,1,Total waste,Complete waste of money for my fruit trees - not responding,RSV00TVM5MVGV,NEGATIVE,0.0115
+16-06-2022,TRUE,B08T68ZMGL,1,Total waste,Complete waste of money for my orchids - damaged product,R6P3FO7PDM6TP,NEGATIVE,0.0108
+13-01-2022,TRUE,B08T68ZMGL,4,Happy with purchase,bonsai responded beautifully to this treatment,R2Z9VK64R6UR8,POSITIVE,0.9857
+08-12-2023,TRUE,B08T68ZMGL,5,Works well,Significant improvement in orchids health and flowering,RQJNY9R22CQMT,POSITIVE,0.9958
+20-10-2025,TRUE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,RYKQBCTDAHJQ8,POSITIVE,0.9962
+09-08-2024,FALSE,B08T68ZMGL,5,Happy with purchase,My flowering plants have never looked better - pest-free now,RG5RF05BZME0S,POSITIVE,0.994
+09-07-2023,TRUE,B08T68ZMGL,4,Happy with purchase,The vegetables in my garden are now growing vigorously thanks to this product,RC0EAYJ8HQFY5,POSITIVE,0.9962
+16-08-2023,TRUE,B08T68ZMGL,3,Moderate effect,Not bad but not great for my rose plants,R5IH7HYMCBMML,NEGATIVE,0.0296
+10-05-2022,FALSE,B08T68ZMGL,5,Highly recommended,This product saved my dying herb garden - now they're looking healthier,R0D8YOWWMWHAC,POSITIVE,0.995
+14-04-2023,TRUE,B08T68ZMGL,1,Not effective,"Did nothing for my marigold, very disappointed",RPLT8KWBVD5BJ,NEGATIVE,0.0139
+01-05-2022,FALSE,B08T68ZMGL,5,Happy with purchase,My hibiscus have never looked better - greener than ever,RH80CMKSYHBV7,POSITIVE,0.9953
+04-02-2023,TRUE,B08T68ZMGL,1,Damaged my plants,This product damaged my marigold - now they're showing signs of stress,RII8DPUA7A1NF,NEGATIVE,0.01
+15-07-2023,TRUE,B08T68ZMGL,4,Happy with purchase,My plants flower abundantly. Thanks!,RG7LALB01BH5T,POSITIVE,0.9962
+12-03-2022,TRUE,B08T68ZMGL,4,Works well,Significant improvement in succulents health and flowering,RNBR1IQPHX535,POSITIVE,0.9942
+05-10-2024,TRUE,B08T68ZMGL,4,Life saver for plants,This product saved my dying money plants - now they're growing vigorously,RE2ESPJ375RV8,POSITIVE,0.9958
+22-04-2023,TRUE,B08T68ZMGL,4,Great buy,My plants flower abundantly. Thanks!,RYY4BDMEIA0PE,POSITIVE,0.9962
+15-06-2022,TRUE,B08T68ZMGL,4,Amazing results!,Excellent results with my orchids - saw improvement in just 10 days,RKDW57JWQAKI5,POSITIVE,0.9945
+01-03-2022,TRUE,B08T68ZMGL,5,Effective product,Visible difference in my terrace garden after 3 weeks,RGYOR74D3X7RQ,NEUTRAL,0.6945
+16-04-2023,TRUE,B08T68ZMGL,4,Great buy,The marigold in my garden are now pest-free now thanks to this product,RKV9IB76CHPPG,POSITIVE,0.9901
+24-05-2023,FALSE,B08T68ZMGL,4,Effective product,My marigold have never looked better - more vibrant colors,R23011090GQY3,POSITIVE,0.9953
+03-09-2022,TRUE,B08T68ZMGL,4,Life saver for plants,This product saved my dying flowering plants - now they're blooming continuously,RA9XVS7XQO1XH,POSITIVE,0.9961
+27-02-2025,TRUE,B08T68ZMGL,4,Happy with purchase,Visible difference in my herb garden after 4 weeks,RHQ52O1HTEZK1,NEUTRAL,0.6714
+21-01-2023,TRUE,B08T68ZMGL,5,Great buy,herb garden responded beautifully to this treatment,R8G0NVUFYH8U1,POSITIVE,0.9932
+26-10-2022,TRUE,B08T68ZMGL,5,Effective product,My bonsai have never looked better - pest-free now,RBNEKDZR5OWOE,POSITIVE,0.9919
+09-01-2025,TRUE,B08T68ZMGL,3,Moderate effect,Average performance with my hibiscus - slow progress,RV51IUMLJT5S5,NEGATIVE,0.0823
+23-10-2024,FALSE,B08T68ZMGL,1,Disappointed,My tulsi actually got worse after using this,RJIK9JXQOSHBU,NEGATIVE,0.012
+06-08-2022,TRUE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,R8N5ORPWYSHWP,POSITIVE,0.9962
+29-08-2023,TRUE,B08T68ZMGL,5,Great buy,Visible difference in my indoor plants after 4 weeks,R46R29YFCEPAD,NEUTRAL,0.6913
+06-03-2022,TRUE,B08T68ZMGL,5,Effective product,The orchids in my garden are now 100% guarantee thanks to this product,RHC9HSRRFLVYO,POSITIVE,0.975
+19-06-2022,TRUE,B08T68ZMGL,3,Okay results,Some improvement in my flowering plants but expected more,R8TM3DCLGBJPG,POSITIVE,0.9598
+25-10-2024,TRUE,B08T68ZMGL,4,Effective product,My plants flower abundantly. Thanks!,R69KSJQ94I6GU,POSITIVE,0.9962
+12-01-2022,TRUE,B08T68ZMGL,5,Life saver for plants,"My flowering plants are thriving with this product, growing vigorously",RDQN6DA8VLHPT,POSITIVE,0.9967
+24-05-2025,FALSE,B08T68ZMGL,3,Moderate effect,Moderate results with my hibiscus - a few flowers,RKFDP0IOM3HAK,NEUTRAL,0.6867
+14-05-2023,TRUE,B08T68ZMGL,4,Happy with purchase,hibiscus responded beautifully to this treatment,RWV45KNGZD92S,POSITIVE,0.9948
+07-12-2025,TRUE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my hibiscus - fruiting abundantly,REDI0I9JATB8H,POSITIVE,0.9942
+13-01-2025,TRUE,B08T68ZMGL,5,Effective product,My bonsai have never looked better - looking healthier,RU2OU5RHZ25ME,POSITIVE,0.9955
+26-02-2022,TRUE,B08T68ZMGL,4,Happy with purchase,tulsi responded beautifully to this treatment,R6QDGU8WHYIEV,POSITIVE,0.9787
+16-05-2022,TRUE,B08T68ZMGL,4,Effective product,Works exactly as described on my orchids - growing vigorously,RKPRR19ANZCUL,POSITIVE,0.9844
+21-02-2025,TRUE,B08T68ZMGL,3,Moderate effect,Works somewhat for tulsi but needs improvement,RXLNKG3HCIM99,POSITIVE,0.8631
+20-09-2023,TRUE,B08T68ZMGL,5,Effective product,Works exactly as described on my orchids - pest-free now,R6COALO6MSSO6,POSITIVE,0.9492
+20-08-2023,TRUE,B08T68ZMGL,5,Effective product,My fruit trees have never looked better - looking healthier,RM7ST6NH8H9KJ,POSITIVE,0.9954
+06-06-2023,TRUE,B08T68ZMGL,4,Amazing results!,"My indoor plants are thriving with this product, blooming continuously",RXGZL9K71FZLH,POSITIVE,0.9967
+28-01-2025,TRUE,B08T68ZMGL,4,Amazing results!,Wonderful product! My vegetables producing more flowers,RJ43QF1N24ZPA,POSITIVE,0.9965
+07-02-2025,TRUE,B08T68ZMGL,4,Great buy,The orchids in my garden are now growing faster thanks to this product,RLR6YDJ05KMZT,POSITIVE,0.9959
+27-07-2023,FALSE,B08T68ZMGL,4,Visible improvement,Significant improvement in tulsi health and flowering,R38BKLD732PFQ,POSITIVE,0.9933
+09-12-2024,TRUE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my rose plants - fruiting abundantly,RC0IDF752UO6E,POSITIVE,0.9948
+19-08-2024,TRUE,B08T68ZMGL,5,Happy with purchase,flowering plants responded beautifully to this treatment,RYOKN2P0KC0FG,POSITIVE,0.9944
+25-03-2023,TRUE,B08T68ZMGL,5,Life saver for plants,This product saved my dying indoor plants - now they're pest-free now,RUNLTUZDR3W3P,POSITIVE,0.983
+16-01-2023,TRUE,B08T68ZMGL,4,Happy with purchase,lawn responded beautifully to this treatment,R8BI831NSYX6J,POSITIVE,0.9827
+18-05-2022,TRUE,B08T68ZMGL,3,Moderate effect,My marigold are doing okay but not exceptional,RR9SJSJD6J6SB,NEGATIVE,0.2933
+18-08-2024,TRUE,B08T68ZMGL,5,Amazing results!,Excellent results with my lawn - saw improvement in just 15 days,R54VUKA8638NR,POSITIVE,0.9934
+01-02-2025,TRUE,B08T68ZMGL,5,Highly recommended,Excellent results with my vegetables - saw improvement in just 11 days,RJEIYXCLPQRIE,POSITIVE,0.9929
+24-04-2024,TRUE,B08T68ZMGL,5,Life saver for plants,Excellent results with my vegetables - saw improvement in just 10 days,RDA0HR7RRGLR5,POSITIVE,0.9927
+28-03-2024,TRUE,B08T68ZMGL,2,Disappointed,"Did nothing for my fruit trees, very disappointed",RGGVGE1YWXA1G,NEGATIVE,0.0132
+08-09-2024,FALSE,B08T68ZMGL,5,Great buy,The hibiscus in my garden are now growing faster thanks to this product,R2BBI03QK2IMD,POSITIVE,0.9953
+24-11-2024,TRUE,B08T68ZMGL,5,Happy with purchase,The money plants in my garden are now more vibrant colors thanks to this product,RLVRFINJQIZ5T,POSITIVE,0.994
+19-07-2023,TRUE,B08T68ZMGL,5,Great buy,My plants flower abundantly. Thanks!,RE1AY7KFT5J9W,POSITIVE,0.9962
+06-12-2022,TRUE,B08T68ZMGL,4,Amazing results!,Excellent results with my vegetables - saw improvement in just 11 days,RXH2GWMZUY9KW,POSITIVE,0.9929
+22-04-2025,TRUE,B08T68ZMGL,2,Total waste,"The product is duplicate, waste of money.",RIALW80HBIHQE,NEGATIVE,0.0138
+25-03-2023,FALSE,B08T68ZMGL,3,Average product,Average performance with my indoor plants - a few flowers,RV8WXPIEEKA8M,NEUTRAL,0.6869
+12-11-2022,TRUE,B08T68ZMGL,3,Okay results,Moderate results with my succulents - slight growth,REZCDBHZXE7F8,POSITIVE,0.9664
+18-06-2022,TRUE,B08T68ZMGL,4,Amazing results!,Wonderful product! My terrace garden more vibrant colors,RS0JH3YTNZ064,POSITIVE,0.9961
+08-11-2023,FALSE,B08T68ZMGL,3,Average product,Not bad but not great for my terrace garden,R3Z210XSWTH9A,NEGATIVE,0.0377
+17-06-2023,TRUE,B08T68ZMGL,1,Damaged my plants,This product damaged my tulsi - now they're leaves turning yellow,R5RIH8AEC5HGY,NEGATIVE,0.0105
+01-11-2022,TRUE,B08T68ZMGL,5,Great buy,Visible difference in my flowering plants after 3 weeks,RP12V5Z4QABB8,NEUTRAL,0.686
+27-08-2024,TRUE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,RNDEC1USETGYS,POSITIVE,0.9962
+06-03-2025,FALSE,B08T68ZMGL,2,Disappointed,Overpriced and ineffective for vegetables,RV6V593VC15IH,NEGATIVE,0.0127
+13-06-2025,TRUE,B08T68ZMGL,4,Highly recommended,Wonderful product! My herb garden producing more flowers,RD0HTI7BNQIJW,POSITIVE,0.9963
+18-08-2023,TRUE,B08T68ZMGL,3,Moderate effect,Takes too long to show results on orchids,RJR1BEMSHVXWL,NEUTRAL,0.6279
+15-04-2023,FALSE,B08T68ZMGL,5,Effective product,The tulsi in my garden are now greener than ever thanks to this product,ROKE087T8012S,POSITIVE,0.9963
+14-10-2024,TRUE,B08T68ZMGL,5,Effective product,Works exactly as described on my rose plants - 100% guarantee,RZ7NA48ZKBJ7O,POSITIVE,0.9753
+11-06-2023,TRUE,B08T68ZMGL,4,Highly recommended,Excellent results with my bonsai - saw improvement in just 8 days,REW753XBJJ2ZV,POSITIVE,0.9914
+23-11-2023,TRUE,B08T68ZMGL,1,Total waste,Complete waste of money for my fruit trees - leaves turning yellow,R4RSG4OA2SCD6,NEGATIVE,0.011
+25-11-2022,TRUE,B08T68ZMGL,3,Average product,Some improvement in my herb garden but expected more,RIO6ZRCCER3IT,POSITIVE,0.9856
+09-10-2024,FALSE,B08T68ZMGL,4,Effective product,My plants flower abundantly. Thanks!,RKGBDW16K0NDC,POSITIVE,0.9962
+23-02-2025,TRUE,B08T68ZMGL,1,No results,No visible change in my terrace garden condition,RRLHJJR4TSM8J,NEUTRAL,0.685
+17-02-2024,TRUE,B08T68ZMGL,4,Highly recommended,"My tulsi are thriving with this product, 100% guarantee",RZAUZZDHQE0A6,POSITIVE,0.9965
+26-06-2023,TRUE,B08T68ZMGL,4,Great buy,Works exactly as described on my marigold - growing vigorously,RRB4KK21BRRW2,POSITIVE,0.9854
+10-05-2024,TRUE,B08T68ZMGL,5,Great buy,Works exactly as described on my marigold - growing vigorously,R3BQ43Y0W1TE3,POSITIVE,0.9854
+21-08-2024,TRUE,B08T68ZMGL,4,Highly recommended,This product saved my dying hibiscus - now they're 100% guarantee,R7P6YVIZ0I9SR,POSITIVE,0.9824
+23-08-2023,FALSE,B08T68ZMGL,4,Visible improvement,Significant improvement in rose plants health and fruit production,RCELWA8U4FNHZ,POSITIVE,0.9933
+06-10-2025,TRUE,B08T68ZMGL,4,Effective product,herb garden responded beautifully to this treatment,R8P8812EY9407,POSITIVE,0.9932
+10-09-2022,TRUE,B08T68ZMGL,4,Amazing results!,"My flowering plants are thriving with this product, recovered completely",RVBENOF7M7CVU,POSITIVE,0.996
+06-05-2022,TRUE,B08T68ZMGL,5,Happy with purchase,bonsai responded beautifully to this treatment,RSUQI73AA6RHR,POSITIVE,0.9857
+03-09-2024,FALSE,B08T68ZMGL,5,Effective product,terrace garden responded beautifully to this treatment,RY9HF4SNDZJN5,POSITIVE,0.9892
+09-05-2022,TRUE,B08T68ZMGL,5,Effective product,lawn responded beautifully to this treatment,RKV8ATROKMSJ6,POSITIVE,0.9827
+12-09-2024,TRUE,B08T68ZMGL,4,Highly recommended,Excellent results with my vegetables - saw improvement in just 12 days,R63BR9SLMOYKC,POSITIVE,0.9928
+26-12-2024,TRUE,B08T68ZMGL,4,Happy with purchase,Visible difference in my marigold after 2 weeks,RC8Y02K4E1GJQ,NEUTRAL,0.6882
+10-06-2023,TRUE,B08T68ZMGL,5,Life saver for plants,Wonderful product! My herb garden fruiting abundantly,R0L4ALG7C84SS,POSITIVE,0.9963
+14-01-2022,TRUE,B08T68ZMGL,4,Effective product,My rose plants have never looked better - growing faster,RXHZSV3I8K0PX,POSITIVE,0.9957
+18-11-2022,TRUE,B08T68ZMGL,1,False claims,Complete waste of money for my rose plants - not recovering,R816T7A2GM1QQ,NEGATIVE,0.0112
+17-12-2022,TRUE,B08T68ZMGL,5,Happy with purchase,My plants flower abundantly. Thanks!,RDJOW3R7538T9,POSITIVE,0.9962
+05-06-2025,TRUE,B08T68ZMGL,5,Happy with purchase,My marigold have never looked better - growing faster,RUGBLXSU7ARG3,POSITIVE,0.9958
+23-08-2025,TRUE,B08T68ZMGL,4,Highly recommended,Excellent results with my marigold - saw improvement in just 10 days,RKQ4IJ84WILV8,POSITIVE,0.9909
+01-01-2023,TRUE,B08T68ZMGL,5,Effective product,Works exactly as described on my lawn - greener than ever,R1HU5SP35FFM2,POSITIVE,0.9902
+24-01-2022,TRUE,B08T68ZMGL,2,False claims,"The product is duplicate, waste of money.",RSROVQ35QM2OH,NEGATIVE,0.0138
+23-05-2025,TRUE,B08T68ZMGL,2,Not effective,Would not recommend for money plants - still struggling,R05CD4WNR93TL,NEGATIVE,0.0234
+28-03-2022,TRUE,B08T68ZMGL,5,Happy with purchase,My indoor plants have never looked better - looking healthier,RBGIG11NVDM3Q,POSITIVE,0.9957
+13-11-2024,TRUE,B08T68ZMGL,4,Visible improvement,Significant improvement in flowering plants health and fruit production,R8BNDTSD1PM17,POSITIVE,0.9931
+03-07-2023,TRUE,B08T68ZMGL,5,Amazing results!,This product saved my dying orchids - now they're more vibrant colors,RSXV9JWWQ9QYN,POSITIVE,0.9946
+29-03-2024,TRUE,B08T68ZMGL,5,Effective product,Visible difference in my bonsai after 2 weeks,R952PMA6KOQE5,NEUTRAL,0.6848
+31-05-2023,TRUE,B08T68ZMGL,5,Amazing results!,Wonderful product! My money plants growing faster,R2VTAZECRRV1E,POSITIVE,0.9964
+23-06-2022,TRUE,B08T68ZMGL,5,Effective product,Works exactly as described on my terrace garden - greener than ever,RGBSVIYJW0838,POSITIVE,0.9943
+07-05-2022,FALSE,B08T68ZMGL,4,Effective product,tulsi responded beautifully to this treatment,ROCANZA77YT6I,POSITIVE,0.9787
+20-07-2024,TRUE,B08T68ZMGL,4,Great buy,Visible difference in my flowering plants after 2 weeks,RIPSJL7LM77EB,NEUTRAL,0.6842
+15-07-2022,FALSE,B08T68ZMGL,5,Life saver for plants,Excellent results with my tulsi - saw improvement in just 18 days,RGIEJVW06TZ13,POSITIVE,0.9896
+25-08-2024,TRUE,B08T68ZMGL,1,Not effective,"Did nothing for my lawn, very disappointed",RMHQTLYWXVOEL,NEGATIVE,0.0109
+08-04-2023,TRUE,B08T68ZMGL,4,Great buy,hibiscus responded beautifully to this treatment,R8JC05Z7T57L5,POSITIVE,0.9948
+26-08-2023,TRUE,B08T68ZMGL,5,Amazing results!,This product saved my dying terrace garden - now they're growing vigorously,R4JX1D0S8XFYQ,POSITIVE,0.9959
+21-02-2023,TRUE,B08T68ZMGL,4,Amazing results!,Wonderful product! My hibiscus producing more flowers,RDELTRDO2X7YR,POSITIVE,0.9966
+21-09-2024,TRUE,B08T68ZMGL,5,Life saver for plants,Excellent results with my terrace garden - saw improvement in just 20 days,RMHRN57I9Q18W,POSITIVE,0.9951
+18-12-2024,FALSE,B08T68ZMGL,5,Effective product,Visible difference in my money plants after 3 weeks,R418DQ1OGOL1D,NEUTRAL,0.6856
+07-06-2023,FALSE,B08T68ZMGL,4,Effective product,money plants responded beautifully to this treatment,RK5RPMMRKDSAJ,POSITIVE,0.9894
+10-03-2025,TRUE,B08T68ZMGL,5,Effective product,Works exactly as described on my hibiscus - growing faster,R8B30IBMZ7666,POSITIVE,0.9911
+23-04-2022,TRUE,B08T68ZMGL,1,Not effective,"Did nothing for my indoor plants, very disappointed",REPZHE4RZ1FQB,NEGATIVE,0.0121
+11-01-2024,TRUE,B08T68ZMGL,3,Moderate effect,Takes too long to show results on herb garden,RNWINK0TA0CEN,NEUTRAL,0.6264
+05-01-2024,TRUE,B08T68ZMGL,3,Average product,My marigold showed moderate growth but it took a month,RJ5N3JKCMX7KT,NEUTRAL,0.6872
+29-01-2023,TRUE,B08T68ZMGL,4,Great buy,Visible difference in my money plants after 4 weeks,RRE5LRU9WUT5R,NEUTRAL,0.6825
+03-03-2024,FALSE,B08T68ZMGL,5,Visible improvement,Significant improvement in orchids health and growth,RI2OTCYU12JMA,POSITIVE,0.9963
+07-04-2025,TRUE,B08T68ZMGL,4,Highly recommended,This product saved my dying tulsi - now they're blooming continuously,RYNM1DM9WFLE2,POSITIVE,0.9948
+08-10-2022,TRUE,B08T68ZMGL,3,Moderate effect,My marigold are doing okay but not exceptional,RCJ3VQTXXZKX2,NEGATIVE,0.2933
+18-07-2024,TRUE,B08T68ZMGL,1,No results,Would not recommend for flowering plants - showing no growth,R8XYBP6CY3J20,NEGATIVE,0.0154
+19-08-2022,TRUE,B08T68ZMGL,1,Total waste,Complete waste of money for my succulents - Waiting for results,R7FTZBGJZD6GW,NEGATIVE,0.0099
+21-03-2024,TRUE,B08T68ZMGL,5,Great buy,The indoor plants in my garden are now looking healthier thanks to this product,RA1TFA1GOTEJX,POSITIVE,0.9955
+27-11-2022,TRUE,B08T68ZMGL,2,No results,Would not recommend for succulents - leaves turning yellow,RNVWLT36IZ6JQ,NEGATIVE,0.0137
+29-12-2022,FALSE,B08T68ZMGL,5,Visible improvement,Significant improvement in fruit trees health and flowering,RJZECKGQHPJME,POSITIVE,0.9904
+09-04-2024,TRUE,B08T68ZMGL,3,Okay results,Works somewhat for hibiscus but needs improvement,RITU0RD5N68CO,POSITIVE,0.931
+09-04-2024,TRUE,B08T68ZMGL,5,Great buy,My plants flower abundantly. Thanks!,RKQIR6Z4KYRYK,POSITIVE,0.9962
+21-11-2022,FALSE,B08T68ZMGL,5,Good product,Significant improvement in fruit trees health and leaf color,R4XUSYO8UFPP9,POSITIVE,0.9919
+13-07-2025,TRUE,B08T68ZMGL,3,Moderate effect,My succulents are doing okay but not exceptional,R23CMIYR1N3X8,NEGATIVE,0.2931
+14-07-2024,FALSE,B08T68ZMGL,5,Great buy,My flowering plants have never looked better - 100% guarantee,R9SY2MZHJD5MW,POSITIVE,0.9954
+20-03-2022,FALSE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My tulsi more vibrant colors,RSJO0NOSDPVNV,POSITIVE,0.9967
+04-03-2022,TRUE,B08T68ZMGL,2,Harmful product,This product damaged my flowering plants - now they're not recovering,RO6W6QU96IGE5,NEGATIVE,0.0111
+25-03-2025,TRUE,B08T68ZMGL,2,Total waste,"The product is duplicate, waste of money.",RUST7XJWK3E9O,NEGATIVE,0.0138
+24-03-2025,TRUE,B08T68ZMGL,3,Okay results,Not bad but not great for my vegetables,R6Y7PCLO3UX3P,NEGATIVE,0.0356
+25-09-2024,TRUE,B08T68ZMGL,4,Great buy,My succulents have never looked better - blooming continuously,RRA90BMVWT2TW,POSITIVE,0.9955
+26-06-2022,TRUE,B08T68ZMGL,4,Happy with purchase,Visible difference in my rose plants after 4 weeks,RU7BBGBB3QDVT,NEUTRAL,0.681
+03-11-2022,TRUE,B08T68ZMGL,4,Good product,Significant improvement in fruit trees health and growth,RPN3YS1CGMY4L,POSITIVE,0.9927
+19-11-2024,TRUE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My orchids producing more flowers,RIUC54BTTF2BR,POSITIVE,0.9964
+10-11-2024,TRUE,B08T68ZMGL,5,Happy with purchase,My lawn have never looked better - looking healthier,RCQOJCLYSBPM6,POSITIVE,0.9949
+21-09-2023,TRUE,B08T68ZMGL,4,Visible improvement,Significant improvement in hibiscus health and growth,RD8N8Y4VVTSV2,POSITIVE,0.9955
+28-10-2025,TRUE,B08T68ZMGL,5,Highly recommended,Excellent results with my bonsai - saw improvement in just 15 days,R3AUIDLZHHUZ7,POSITIVE,0.9915
+21-11-2024,TRUE,B08T68ZMGL,5,Great buy,herb garden responded beautifully to this treatment,RZPXAY27TPT34,POSITIVE,0.9932
+02-07-2025,TRUE,B08T68ZMGL,1,Damaged my plants,This product damaged my fruit trees - now they're Where is my money?,R3D03895PG05G,NEGATIVE,0.0108
+14-01-2024,TRUE,B08T68ZMGL,4,Happy with purchase,My succulents have never looked better - pest-free now,RK945K153TUQD,POSITIVE,0.9915
+05-09-2022,TRUE,B08T68ZMGL,4,Highly recommended,"My herb garden are thriving with this product, growing faster",RN6G7FP7KK6U1,POSITIVE,0.9966
+24-05-2024,FALSE,B08T68ZMGL,4,Great buy,The orchids in my garden are now fruiting abundantly thanks to this product,RSNLN8J85NP8K,POSITIVE,0.9962
+13-08-2025,TRUE,B08T68ZMGL,1,Disappointed,Would not recommend for terrace garden - showing signs of stress,RGQH5E80BVKYH,NEGATIVE,0.0175
+20-06-2024,TRUE,B08T68ZMGL,4,Great buy,My vegetables have never looked better - recovered completely,R218WGIH4HWBK,POSITIVE,0.9947
+22-04-2022,TRUE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My vegetables growing vigorously,RJ6V9JLXVIIKC,POSITIVE,0.9965
+24-03-2022,TRUE,B08T68ZMGL,5,Great buy,Works exactly as described on my succulents - fruiting abundantly,R7AAXNTUK32U5,POSITIVE,0.9938
+13-09-2023,TRUE,B08T68ZMGL,4,Highly recommended,Wonderful product! My rose plants looking healthier,R79VI2TWKZ2OH,POSITIVE,0.9964
+30-08-2022,TRUE,B08T68ZMGL,4,Visible improvement,Significant improvement in vegetables health and flowering,RVXYER54RO4D3,POSITIVE,0.9937
+17-09-2025,TRUE,B08T68ZMGL,3,Average product,Moderate results with my rose plants - slight growth,RQJF8XQ7A6D70,POSITIVE,0.9274
+16-02-2022,TRUE,B08T68ZMGL,5,Great buy,Works exactly as described on my money plants - greener than ever,RSOM5C0NZ5A4U,POSITIVE,0.9918
+11-03-2025,TRUE,B08T68ZMGL,5,Visible improvement,Significant improvement in terrace garden health and growth,RL4PH03Y49FCB,POSITIVE,0.9956
+22-02-2022,TRUE,B08T68ZMGL,5,Highly recommended,Wonderful product! My money plants greener than ever,R5H14MHKA5MFP,POSITIVE,0.9966
+23-12-2024,FALSE,B08T68ZMGL,5,Great buy,The tulsi in my garden are now fruiting abundantly thanks to this product,RNWC9VTON7PA8,POSITIVE,0.9959
+24-09-2023,TRUE,B08T68ZMGL,5,Works well,Significant improvement in marigold health and fruit production,RMDLSCAUY9U4T,POSITIVE,0.9929
+24-04-2024,TRUE,B08T68ZMGL,4,Amazing results!,Excellent results with my hibiscus - saw improvement in just 15 days,RJ3ER35IJITOG,POSITIVE,0.9934
+28-03-2022,TRUE,B08T68ZMGL,4,Amazing results!,"My tulsi are thriving with this product, producing more flowers",RE31PBYTAYYH7,POSITIVE,0.9968
+17-12-2024,TRUE,B08T68ZMGL,4,Great buy,Visible difference in my herb garden after 2 weeks,ROGPLH7KCZSRL,NEUTRAL,0.6761
+13-04-2025,TRUE,B08T68ZMGL,5,Great buy,marigold responded beautifully to this treatment,R284U029E3YM0,POSITIVE,0.9876
+18-03-2022,FALSE,B08T68ZMGL,4,Great buy,My rose plants have never looked better - 100% guarantee,R0NLJX2PRUM90,POSITIVE,0.9947
+09-05-2025,TRUE,B08T68ZMGL,4,Highly recommended,Wonderful product! My terrace garden more vibrant colors,RTXELZMN7LOTD,POSITIVE,0.9961
+11-04-2022,TRUE,B08T68ZMGL,5,Visible improvement,Significant improvement in hibiscus health and flowering,RHK8TRF7OILAK,POSITIVE,0.9953
+14-09-2025,FALSE,B08T68ZMGL,5,Life saver for plants,Excellent results with my money plants - saw improvement in just 8 days,R571GWU3EUNNM,POSITIVE,0.9918
+13-06-2025,TRUE,B08T68ZMGL,5,Effective product,Works exactly as described on my hibiscus - fruiting abundantly,RKLVSG54ZYQJM,POSITIVE,0.9942
+26-11-2022,TRUE,B08T68ZMGL,3,Okay results,Some improvement in my marigold but expected more,RRGVCIXKFIF06,POSITIVE,0.9391
+11-07-2022,TRUE,B08T68ZMGL,2,Disappointed,No improvement in my lawn even after 6 weeks,RT66KAEROXIHT,NEGATIVE,0.0435
+14-03-2024,TRUE,B08T68ZMGL,4,Happy with purchase,My plants flower abundantly. Thanks!,RKZXHM9L84W3K,POSITIVE,0.9962
+12-10-2025,TRUE,B08T68ZMGL,5,Great buy,My rose plants have never looked better - 100% guarantee,RWOKBD3XKUNN6,POSITIVE,0.9947
+27-06-2023,TRUE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,RXF9I5F5CD5XK,POSITIVE,0.9962
+26-12-2024,TRUE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my indoor plants - producing more flowers,RP81FZE5ZIL20,POSITIVE,0.9721
+24-05-2023,TRUE,B08T68ZMGL,1,Total waste,Complete waste of money for my indoor plants - Where is my money?,RCRLTZVP37PWC,NEGATIVE,0.0101
+05-12-2025,TRUE,B08T68ZMGL,3,Okay results,Average performance with my rose plants - some new leaves,R05WAA543B16A,NEUTRAL,0.6714
+14-06-2023,TRUE,B08T68ZMGL,5,Highly recommended,"My flowering plants are thriving with this product, recovered completely",RLKJ1JW0ET59F,POSITIVE,0.996
+27-06-2023,TRUE,B08T68ZMGL,4,Happy with purchase,Visible difference in my money plants after 3 weeks,RJMJS8ZEMFXDB,NEUTRAL,0.6856
+12-09-2022,TRUE,B08T68ZMGL,1,Not effective,Overpriced and ineffective for terrace garden,RMQO2OHDPDPC2,NEGATIVE,0.0122
+21-04-2024,TRUE,B08T68ZMGL,4,Happy with purchase,The fruit trees in my garden are now blooming continuously thanks to this product,RZN3KBLD00NKT,POSITIVE,0.9963
+10-06-2025,FALSE,B08T68ZMGL,5,Highly recommended,Excellent results with my vegetables - saw improvement in just 11 days,RFH1S90SBFDRC,POSITIVE,0.9929
+31-05-2025,TRUE,B08T68ZMGL,2,No results,Expected better results with my money plants but flowers stopped coming,R14UDSVSU6FP1,NEUTRAL,0.6024
+21-05-2024,FALSE,B08T68ZMGL,5,Effective product,The orchids in my garden are now producing more flowers thanks to this product,R566AYSFVOHER,POSITIVE,0.9957
+27-10-2024,TRUE,B08T68ZMGL,5,Amazing results!,"My rose plants are thriving with this product, greener than ever",RT9SNZ0WJ3LZH,POSITIVE,0.9965
+28-01-2022,FALSE,B08T68ZMGL,4,Life saver for plants,"My fruit trees are thriving with this product, more vibrant colors",RX94PSUMF5357,POSITIVE,0.9966
+08-02-2025,TRUE,B08T68ZMGL,5,Effective product,Visible difference in my terrace garden after 3 weeks,RCT6ZY64OP8B9,NEUTRAL,0.6945
+08-08-2023,TRUE,B08T68ZMGL,2,Disappointed,No improvement in my rose plants even after 6 weeks,RNC57V4Y5PGRM,NEGATIVE,0.0775
+26-03-2024,FALSE,B08T68ZMGL,2,Harmful product,This product damaged my succulents - now they're growth stunted,RR8ANQH1VJD62,NEGATIVE,0.0107
+07-06-2023,FALSE,B08T68ZMGL,4,Great buy,Works exactly as described on my succulents - more vibrant colors,RBM1LS8PI5M8U,POSITIVE,0.9464
+22-03-2024,TRUE,B08T68ZMGL,1,Total waste,"The product is duplicate, waste of money.",RFII2FZA9OC91,NEGATIVE,0.0138
+05-02-2025,TRUE,B08T68ZMGL,5,Life saver for plants,"My herb garden are thriving with this product, more vibrant colors",R3NNWQBN4JYI9,POSITIVE,0.9967
+19-09-2023,TRUE,B08T68ZMGL,5,Effective product,The money plants in my garden are now blooming continuously thanks to this product,RZBK4H9G4D13Q,POSITIVE,0.9961
+28-04-2025,TRUE,B08T68ZMGL,5,Effective product,herb garden responded beautifully to this treatment,RGI8S54NJ1X5V,POSITIVE,0.9932
+02-04-2022,TRUE,B08T68ZMGL,4,Great buy,Works exactly as described on my lawn - more vibrant colors,RT08W0ODF4WIM,POSITIVE,0.9355
+25-02-2024,TRUE,B08T68ZMGL,5,Works well,Significant improvement in herb garden health and growth,RSAX8JXNN3I1H,POSITIVE,0.9958
+13-03-2022,TRUE,B08T68ZMGL,4,Highly recommended,This product saved my dying fruit trees - now they're more vibrant colors,R0QZGRW0TABQD,POSITIVE,0.9939
+05-07-2023,TRUE,B08T68ZMGL,2,Not effective,No improvement in my rose plants even after 6 weeks,R30NWA33UZ8AT,NEGATIVE,0.0775
+31-01-2022,TRUE,B08T68ZMGL,4,Great buy,The flowering plants in my garden are now greener than ever thanks to this product,RDK7F7JDQKEDG,POSITIVE,0.9965
+28-10-2025,TRUE,B08T68ZMGL,4,Works well,Significant improvement in lawn health and growth,RNHMDDL6G2GDO,POSITIVE,0.9927
+18-02-2025,TRUE,B08T68ZMGL,4,Highly recommended,Wonderful product! My hibiscus pest-free now,RT60ZJ0XWD52G,POSITIVE,0.9948
+26-09-2024,TRUE,B08T68ZMGL,5,Effective product,My hibiscus have never looked better - greener than ever,RALS3OUJALLXF,POSITIVE,0.9953
+19-12-2025,TRUE,B08T68ZMGL,4,Happy with purchase,My orchids have never looked better - more vibrant colors,RVW9Q94TCAHUB,POSITIVE,0.9952
+01-01-2022,TRUE,B08T68ZMGL,1,Harmful product,This product damaged my rose plants - now they're leaves turning yellow,RP0Q2EXWEYG74,NEGATIVE,0.0108
+28-07-2023,TRUE,B08T68ZMGL,2,Not effective,Would not recommend for vegetables - dropping leaves,R03IYT6OP84FE,NEGATIVE,0.0174
+25-02-2025,TRUE,B08T68ZMGL,3,Average product,Not bad but not great for my marigold,RNR24D06GTZNB,NEGATIVE,0.047
+04-08-2024,TRUE,B08T68ZMGL,4,Amazing results!,This product saved my dying herb garden - now they're producing more flowers,R2FB0Y9PZ3ISK,POSITIVE,0.9953
+19-03-2025,TRUE,B08T68ZMGL,5,Happy with purchase,My plants flower abundantly. Thanks!,R7UCLAG4U3MPX,POSITIVE,0.9962
+14-03-2022,TRUE,B08T68ZMGL,3,Moderate effect,Average performance with my fruit trees - some new leaves,R91CKL76GAYSQ,NEUTRAL,0.6801
+10-06-2024,FALSE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My terrace garden producing more flowers,R1F6JZZWXIJYB,POSITIVE,0.9962
+28-06-2024,TRUE,B08T68ZMGL,5,Amazing results!,Wonderful product! My flowering plants pest-free now,RXPEGC2Y5KQ01,POSITIVE,0.9954
+26-02-2022,TRUE,B08T68ZMGL,3,Moderate effect,Not bad but not great for my marigold,RNLW333SX3Z0B,NEGATIVE,0.047
+25-06-2025,TRUE,B08T68ZMGL,5,Good product,Significant improvement in succulents health and flowering,RD8TXP26024FB,POSITIVE,0.9942
+03-12-2025,TRUE,B08T68ZMGL,2,Disappointed,No improvement in my tulsi even after 3 weeks,RX237P6VYNO9M,NEGATIVE,0.1467
+22-09-2022,TRUE,B08T68ZMGL,4,Effective product,bonsai responded beautifully to this treatment,RGJXPLD18R20E,POSITIVE,0.9857
+31-08-2022,FALSE,B08T68ZMGL,3,Moderate effect,Takes too long to show results on orchids,R0CXVFIPR2JMW,NEUTRAL,0.6279
+14-05-2023,TRUE,B08T68ZMGL,3,Okay results,Not bad but not great for my succulents,RWOC1D1EHX00K,NEGATIVE,0.0693
+01-04-2022,TRUE,B08T68ZMGL,3,Okay results,Some improvement in my marigold but expected more,RSWZIO4W76UBP,POSITIVE,0.9391
+18-11-2022,TRUE,B08T68ZMGL,3,Okay results,Takes too long to show results on tulsi,RC05C0HZB4EAG,NEGATIVE,0.2019
+15-07-2022,TRUE,B08T68ZMGL,4,Amazing results!,Wonderful product! My succulents looking healthier,R2Q11WFOC0RJW,POSITIVE,0.9965
+06-10-2022,TRUE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My rose plants growing vigorously,RM0WCZWCVKSJB,POSITIVE,0.9966
+06-04-2022,TRUE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My hibiscus more vibrant colors,R8UFS60OGC69Z,POSITIVE,0.9966
+08-04-2023,FALSE,B08T68ZMGL,1,Disappointed,No visible change in my rose plants condition,RPJ6FY3SQ6CWS,NEUTRAL,0.6546
+18-08-2022,TRUE,B08T68ZMGL,5,Life saver for plants,Excellent results with my herb garden - saw improvement in just 17 days,RI7DJ2LBQOGP3,POSITIVE,0.9953
+03-12-2025,TRUE,B08T68ZMGL,4,Highly recommended,Excellent results with my herb garden - saw improvement in just 19 days,RL7JDXIKWS9YB,POSITIVE,0.9953
+02-02-2025,TRUE,B08T68ZMGL,4,Amazing results!,Wonderful product! My lawn recovered completely,R7A4XZ4Y23AZN,POSITIVE,0.9959
+06-12-2025,TRUE,B08T68ZMGL,1,Not effective,My hibiscus actually got worse after using this,R04M0171XP74P,NEGATIVE,0.0137
+05-05-2024,TRUE,B08T68ZMGL,4,Amazing results!,"My herb garden are thriving with this product, fruiting abundantly",RC197OTCS8TGC,POSITIVE,0.9966
+27-08-2025,TRUE,B08T68ZMGL,1,No results,Would not recommend for orchids - leaves turning yellow,R5LEVOQGDLU5Q,NEGATIVE,0.014
+13-03-2024,TRUE,B08T68ZMGL,4,Amazing results!,Excellent results with my money plants - saw improvement in just 11 days,R5KS74HIDKDUU,POSITIVE,0.9919
+10-11-2022,TRUE,B08T68ZMGL,2,Not effective,No improvement in my money plants even after 6 weeks,R3IEDAAR9NFFZ,NEGATIVE,0.0448
+11-02-2024,TRUE,B08T68ZMGL,4,Happy with purchase,Visible difference in my herb garden after 3 weeks,R66UDFU3Y9SNX,NEUTRAL,0.6798
+17-11-2024,TRUE,B08T68ZMGL,2,Don't buy,"The product is duplicate, waste of money.",RMYJHZYMQX58B,NEGATIVE,0.0138
+25-11-2023,TRUE,B08T68ZMGL,1,Damaged my plants,This product damaged my succulents - now they're showing signs of stress,RSVPYAGYWOD88,NEGATIVE,0.01
+20-01-2024,TRUE,B08T68ZMGL,3,Average product,Some improvement in my tulsi but expected more,RUJEDPDGQWK9B,POSITIVE,0.9026
+25-08-2024,TRUE,B08T68ZMGL,5,Happy with purchase,My plants flower abundantly. Thanks!,RZ9DQRDTFW46A,POSITIVE,0.9962
+28-03-2024,TRUE,B08T68ZMGL,4,Life saver for plants,This product saved my dying orchids - now they're greener than ever,RLBXKEU6U8GZ4,POSITIVE,0.9956
+25-08-2025,FALSE,B08T68ZMGL,4,Highly recommended,Wonderful product! My indoor plants greener than ever,RJ7S5E4RV7TGE,POSITIVE,0.9967
+07-09-2022,TRUE,B08T68ZMGL,5,Highly recommended,"My fruit trees are thriving with this product, producing more flowers",RHJC6X2QGWKB7,POSITIVE,0.9967
+25-10-2025,TRUE,B08T68ZMGL,2,Disappointed,"Did nothing for my herb garden, very disappointed",RNO1HN5NT0JSV,NEGATIVE,0.0121
+30-03-2024,TRUE,B08T68ZMGL,1,No results,No visible change in my marigold condition,ROE70A2TXMC5F,NEUTRAL,0.6169
+08-11-2022,TRUE,B08T68ZMGL,4,Amazing results!,This product saved my dying marigold - now they're growing faster,RHOQ26GU7FL8K,POSITIVE,0.9957
+11-02-2023,FALSE,B08T68ZMGL,1,No results,My money plants actually got worse after using this,R4DCPIEW0NKMH,NEGATIVE,0.0111
+05-11-2022,TRUE,B08T68ZMGL,4,Amazing results!,This product saved my dying herb garden - now they're 100% guarantee,RNRFP6IL0DHOW,POSITIVE,0.9906
+18-12-2023,TRUE,B08T68ZMGL,2,Disappointed,"Did nothing for my fruit trees, very disappointed",RYG31Z16LS4I5,NEGATIVE,0.0132
+24-07-2022,TRUE,B08T68ZMGL,2,Total waste,Complete waste of money for my rose plants - growth stunted,RCUTJWKKYPYHS,NEGATIVE,0.0112
+22-06-2023,TRUE,B08T68ZMGL,5,Happy with purchase,lawn responded beautifully to this treatment,R47Y7O5YXIMRA,POSITIVE,0.9827
+09-04-2024,FALSE,B08T68ZMGL,3,Moderate effect,My terrace garden are doing okay but not exceptional,R26VZCD1ETMPV,NEUTRAL,0.5766
+29-04-2023,TRUE,B08T68ZMGL,4,Life saver for plants,Excellent results with my lawn - saw improvement in just 11 days,R0O8KA4K5V2R6,POSITIVE,0.9935
+21-07-2023,TRUE,B08T68ZMGL,5,Works well,Significant improvement in succulents health and leaf color,RS1BKSXNDFP2K,POSITIVE,0.991
+07-07-2022,FALSE,B08T68ZMGL,3,Moderate effect,Not bad but not great for my terrace garden,RKDZLGHS2ST06,NEGATIVE,0.0377
+03-07-2022,TRUE,B08T68ZMGL,3,Average product,Some improvement in my succulents but expected more,R5278PWMGKG1Y,POSITIVE,0.962
+15-01-2023,FALSE,B08T68ZMGL,4,Good product,Significant improvement in vegetables health and growth,R4NO1YPYJHJCU,POSITIVE,0.995
+22-02-2024,TRUE,B08T68ZMGL,3,Average product,Average performance with my succulents - some new leaves,RB6YOSM64142U,NEUTRAL,0.6607
+05-08-2023,TRUE,B08T68ZMGL,2,Not effective,My money plants actually got worse after using this,RHP0FKEBNFEKL,NEGATIVE,0.0111
+11-03-2022,TRUE,B08T68ZMGL,3,Okay results,Moderate results with my marigold - minor improvement,R9B08B77LD9F6,POSITIVE,0.9115
+02-04-2023,TRUE,B08T68ZMGL,4,Effective product,My plants flower abundantly. Thanks!,RB1DG0D3JGOF8,POSITIVE,0.9962
+31-07-2023,TRUE,B08T68ZMGL,5,Effective product,orchids responded beautifully to this treatment,REFAB9WXQB92W,POSITIVE,0.9937
+14-06-2023,FALSE,B08T68ZMGL,5,Effective product,The orchids in my garden are now more vibrant colors thanks to this product,R9G8VV9IONK51,POSITIVE,0.9962
+01-08-2022,TRUE,B08T68ZMGL,5,Great buy,The vegetables in my garden are now fruiting abundantly thanks to this product,RYZRG26URHAUC,POSITIVE,0.9962
+29-03-2022,TRUE,B08T68ZMGL,5,Amazing results!,This product saved my dying terrace garden - now they're looking healthier,RAKUD2Q810WV3,POSITIVE,0.9948
+18-12-2024,FALSE,B08T68ZMGL,1,Disappointed,No visible change in my herb garden condition,RPEBCOG0XY2K7,POSITIVE,0.9201
+29-05-2022,TRUE,B08T68ZMGL,5,Happy with purchase,lawn responded beautifully to this treatment,R8JDVA6T5O4U7,POSITIVE,0.9827
+12-07-2024,TRUE,B08T68ZMGL,4,Works well,Significant improvement in indoor plants health and growth,RPEQONSJ1JWYB,POSITIVE,0.9944
+19-09-2025,TRUE,B08T68ZMGL,4,Effective product,orchids responded beautifully to this treatment,RZFAG617B5JSD,POSITIVE,0.9937
+21-11-2023,TRUE,B08T68ZMGL,4,Happy with purchase,Works exactly as described on my tulsi - blooming continuously,RQRR74ZM844EZ,POSITIVE,0.9939
+18-11-2025,TRUE,B08T68ZMGL,4,Life saver for plants,Excellent results with my fruit trees - saw improvement in just 10 days,R4WSDTFFRLCT8,POSITIVE,0.993
+21-12-2022,TRUE,B08T68ZMGL,1,Total waste,"The product is duplicate, waste of money.",RWQK9H87PY44A,NEGATIVE,0.0138
+04-02-2024,TRUE,B08T68ZMGL,4,Happy with purchase,My hibiscus have never looked better - looking healthier,R2TPW9VGR3XNO,POSITIVE,0.9961
+03-08-2025,TRUE,B08T68ZMGL,5,Amazing results!,"My flowering plants are thriving with this product, looking healthier",RJJX5OMCV25LS,POSITIVE,0.9966
+29-10-2022,TRUE,B08T68ZMGL,5,Good product,Significant improvement in flowering plants health and leaf color,RYHMGR26431JY,POSITIVE,0.9942
+01-06-2022,FALSE,B08T68ZMGL,5,Effective product,Works exactly as described on my herb garden - more vibrant colors,RG1TA1M853YMP,POSITIVE,0.9769
+05-03-2024,FALSE,B08T68ZMGL,5,Amazing results!,"My herb garden are thriving with this product, looking healthier",RQ8K60U546OO9,POSITIVE,0.9962
+10-01-2025,TRUE,B08T68ZMGL,2,Don't buy,False claims - my tulsi show no difference,RT7AAVUAUHLX0,NEGATIVE,0.266
+04-10-2023,TRUE,B08T68ZMGL,4,Amazing results!,This product saved my dying rose plants - now they're blooming continuously,R6OHMWEM7YLB8,POSITIVE,0.9962
+06-05-2024,TRUE,B08T68ZMGL,5,Highly recommended,This product saved my dying bonsai - now they're looking healthier,R2EJ5L0DQ5L4B,POSITIVE,0.9942
+23-09-2025,TRUE,B08T68ZMGL,2,Disappointed,No improvement in my fruit trees even after 4 weeks,RPEFGP5ETQNY1,NEGATIVE,0.093
+08-08-2022,TRUE,B08T68ZMGL,5,Great buy,succulents responded beautifully to this treatment,R8JU1KU8U2N65,POSITIVE,0.9902
+19-08-2022,FALSE,B08T68ZMGL,3,Moderate effect,Moderate results with my vegetables - little change,RPJVJJZA0R3BK,NEUTRAL,0.655
+26-10-2024,TRUE,B08T68ZMGL,5,Life saver for plants,Wonderful product! My indoor plants producing more flowers,RWHMHTIRYMAVQ,POSITIVE,0.9965
+17-08-2022,TRUE,B08T68ZMGL,1,Disappointed,My orchids actually got worse after using this,RLPF526B2AMJS,NEGATIVE,0.0119
+03-07-2024,FALSE,B08T68ZMGL,5,Happy with purchase,The lawn in my garden are now growing vigorously thanks to this product,R5RLLMKINI7Q0,POSITIVE,0.9962
+07-02-2023,TRUE,B08T68ZMGL,5,Visible improvement,Significant improvement in flowering plants health and growth,RQJ6EV0MB68J8,POSITIVE,0.9948
+06-06-2025,TRUE,B08T68ZMGL,5,Highly recommended,Wonderful product! My lawn more vibrant colors,R2GJFTRXU6KWV,POSITIVE,0.9961
+22-08-2022,TRUE,B08T68ZMGL,5,Effective product,Visible difference in my succulents after 3 weeks,RVYWRR6G8JY3Z,NEUTRAL,0.6881
+06-11-2024,TRUE,B08T68ZMGL,4,Effective product,Visible difference in my fruit trees after 4 weeks,RQ8WGLUJBXQPE,NEUTRAL,0.6891
+06-04-2025,TRUE,B08T68ZMGL,2,Don't buy,Complete waste of money for my flowering plants - getting infected,R6MXIUT824LY4,NEGATIVE,0.0107
+13-01-2025,TRUE,B08T68ZMGL,3,Moderate effect,Moderate results with my herb garden - inconsistent results,ROCHQ0PQPDPTJ,NEUTRAL,0.6596
+17-06-2025,TRUE,B08T68ZMGL,2,False claims,Complete waste of money for my orchids - not responding,RIKYC89FMRQVK,NEGATIVE,0.0104
+16-09-2023,TRUE,B08T68ZMGL,5,Happy with purchase,My plants flower abundantly. Thanks!,R2FMHKJLBO9CM,POSITIVE,0.9962
+12-05-2023,TRUE,B08T68ZMGL,5,Amazing results!,"My indoor plants are thriving with this product, more vibrant colors",RAGXCEKT3DRJ9,POSITIVE,0.9968
+06-03-2022,TRUE,B08T68ZMGL,4,Great buy,My plants flower abundantly. Thanks!,R55GEAL2U6J9I,POSITIVE,0.9962
+07-11-2023,TRUE,B08T68ZMGL,1,Not effective,Would not recommend for lawn - Where is my money?,RHOJ8LHUQ3CZ8,NEGATIVE,0.0204
+08-12-2023,TRUE,B08T68ZMGL,5,Amazing results!,This product saved my dying money plants - now they're producing more flowers,RPRELVLN0YCAK,POSITIVE,0.9921
+26-10-2024,TRUE,B08T68ZMGL,1,Disappointed,No visible change in my tulsi condition,RRWWNJ5VS1M7D,NEUTRAL,0.6641
+30-03-2022,TRUE,B08T68ZMGL,4,Great buy,fruit trees responded beautifully to this treatment,RE9CFWEW5XDS4,POSITIVE,0.9907
+13-01-2023,TRUE,B08T68ZMGL,5,Happy with purchase,The orchids in my garden are now looking healthier thanks to this product,RX6LB7MNF1HHD,POSITIVE,0.9961
+20-04-2023,TRUE,B08T68ZMGL,5,Great buy,The terrace garden in my garden are now blooming continuously thanks to this product,RJBH24BC3PVL0,POSITIVE,0.9963
+06-08-2024,TRUE,B08T68ZMGL,4,Highly recommended,Wonderful product! My succulents recovered completely,RHF9NQMKPBB6O,POSITIVE,0.9965
+22-06-2022,TRUE,B08T68ZMGL,5,Life saver for plants,This product saved my dying vegetables - now they're growing vigorously,RG1WJMDL9G98D,POSITIVE,0.9964
+04-04-2025,TRUE,B08T68ZMGL,4,Happy with purchase,My indoor plants have never looked better - greener than ever,RATK7AW7CHJ84,POSITIVE,0.9959
+16-11-2024,FALSE,B08T68ZMGL,4,Life saver for plants,"My tulsi are thriving with this product, fruiting abundantly",RHJ6W2SHH0TFB,POSITIVE,0.9968
+02-11-2023,TRUE,B08T68ZMGL,4,Effective product,My hibiscus have never looked better - blooming continuously,RQHTI3K3FHAVH,POSITIVE,0.9957
+14-05-2022,TRUE,B08T68ZMGL,2,Disappointed,My herb garden actually got worse after using this,RZ8T4L9DS9W1L,NEGATIVE,0.01
+04-02-2022,TRUE,B08T68ZMGL,4,Life saver for plants,Excellent results with my herb garden - saw improvement in just 8 days,RJ8XP5PJEIW6A,POSITIVE,0.9951
+30-01-2024,TRUE,B08T68ZMGL,5,Happy with purchase,My plants flower abundantly. Thanks!,RTWBPCIYQU15F,POSITIVE,0.9962
+14-07-2024,TRUE,B08T68ZMGL,4,Highly recommended,Wonderful product! My tulsi growing faster,RWGXRJW9B39XF,POSITIVE,0.9967
+31-07-2025,TRUE,B08T68ZMGL,1,No results,My lawn actually got worse after using this,R1JCFJRKLZU2Y,NEGATIVE,0.0111
+27-03-2025,TRUE,B08T68ZMGL,4,Amazing results!,Excellent results with my marigold - saw improvement in just 18 days,R1BKFF7TDMNQJ,POSITIVE,0.9914
+10-02-2022,TRUE,B08T68ZMGL,5,Amazing results!,Excellent results with my herb garden - saw improvement in just 19 days,RQ4KS28U4KH4V,POSITIVE,0.9953
+25-10-2024,TRUE,B08T68ZMGL,4,Good product,Significant improvement in herb garden health and leaf color,RP1BVAP72CPSH,POSITIVE,0.9948
+25-12-2023,TRUE,B08T68ZMGL,5,Effective product,My vegetables have never looked better - pest-free now,R8MPMJZZUFDYG,POSITIVE,0.9914
+12-12-2023,TRUE,B08T68ZMGL,5,Good product,Significant improvement in tulsi health and fruit production,RS4D8YMNUWG61,POSITIVE,0.9932
+03-12-2024,TRUE,B08T68ZMGL,5,Great buy,My plants flower abundantly. Thanks!,R2T9TO2WMPYBW,POSITIVE,0.9962
+24-01-2025,TRUE,B08T68ZMGL,5,Great buy,flowering plants responded beautifully to this treatment,R0H79H74UV999,POSITIVE,0.9944
+06-05-2024,TRUE,B08T68ZMGL,4,Highly recommended,This product saved my dying orchids - now they're producing more flowers,RH9RXUMO06IRA,POSITIVE,0.9944
+05-11-2023,TRUE,B08T68ZMGL,5,Effective product,money plants responded beautifully to this treatment,RJW4HGV0YTYZS,POSITIVE,0.9894
+06-12-2024,TRUE,B08T68ZMGL,2,No results,No improvement in my money plants even after 4 weeks,RWI7GNCIQ7AH0,NEGATIVE,0.0507
+28-07-2025,TRUE,B08T68ZMGL,4,Life saver for plants,Excellent results with my herb garden - saw improvement in just 16 days,RVY6449619N6V,POSITIVE,0.9952
+04-07-2023,TRUE,B08T68ZMGL,1,False claims,"The product is duplicate, waste of money.",RR22OOU9K5DSU,NEGATIVE,0.0138
+23-10-2022,FALSE,B08T68ZMGL,4,Effective product,My orchids have never looked better - greener than ever,RRJGLQHQZVK76,POSITIVE,0.9949
+22-11-2025,TRUE,B08T68ZMGL,5,Great buy,tulsi responded beautifully to this treatment,RN7F3T16DFO7H,POSITIVE,0.9787
+30-04-2023,TRUE,B08T68ZMGL,5,Great buy,My plants flower abundantly. Thanks!,RESP2CEJ1CHB2,POSITIVE,0.9962
+24-01-2023,TRUE,B08T68ZMGL,4,Effective product,The terrace garden in my garden are now recovered completely thanks to this product,RR1G53JD1IVNH,POSITIVE,0.99
+16-08-2022,FALSE,B08T68ZMGL,4,Great buy,money plants responded beautifully to this treatment,RKJZ2UGBEZ58A,POSITIVE,0.9894
+23-10-2022,TRUE,B08T68ZMGL,1,Not effective,Overpriced and ineffective for vegetables,RC7LR5QXQLATS,NEGATIVE,0.0127
+25-12-2023,TRUE,B08T68ZMGL,4,Happy with purchase,The flowering plants in my garden are now 100% guarantee thanks to this product,RB84ENLAKYO9C,POSITIVE,0.9846
+17-10-2023,TRUE,B08T68ZMGL,5,Good product,Significant improvement in hibiscus health and growth,RYJX3SJERALJE,POSITIVE,0.9955
+01-05-2022,TRUE,B08T68ZMGL,5,Happy with purchase,Works exactly as described on my money plants - looking healthier,RWI9G0QFNZZ31,POSITIVE,0.9877
+19-12-2024,TRUE,B08T68ZMGL,4,Good product,Significant improvement in hibiscus health and fruit production,RXRX7LQ47B8JI,POSITIVE,0.9947
+19-01-2023,TRUE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My lawn more vibrant colors,R5U6Z7QOQVCBV,POSITIVE,0.9961
+21-08-2023,TRUE,B08T68ZMGL,1,Not effective,No improvement in my rose plants even after 3 weeks,RQZGLM0IRK39E,NEGATIVE,0.0862
+09-10-2024,TRUE,B08T68ZMGL,4,Great buy,The flowering plants in my garden are now 100% guarantee thanks to this product,R7GTOYKGP10SC,POSITIVE,0.9846
+17-02-2022,TRUE,B08T68ZMGL,4,Great buy,Works exactly as described on my tulsi - greener than ever,RXTZIO843UY23,POSITIVE,0.9847
+17-10-2022,TRUE,B08T68ZMGL,2,False claims,"The product is duplicate, waste of money.",RRYBZ69U0DB8E,NEGATIVE,0.0138
+14-07-2023,FALSE,B08T68ZMGL,5,Effective product,The flowering plants in my garden are now greener than ever thanks to this product,RVF5124VPTPJ3,POSITIVE,0.9965
+11-03-2024,TRUE,B08T68ZMGL,4,Great buy,Visible difference in my succulents after 3 weeks,R5JI29B48WM6B,NEUTRAL,0.6881
+23-06-2025,TRUE,B08T68ZMGL,3,Okay results,Not bad but not great for my fruit trees,R3RYJBJOXMSZC,NEGATIVE,0.0377
+23-05-2024,TRUE,B08T68ZMGL,5,Amazing results!,Excellent results with my hibiscus - saw improvement in just 7 days,RE148533VW7WK,POSITIVE,0.9934
+26-06-2023,TRUE,B08T68ZMGL,3,Average product,My succulents showed some improvement but it took 4 weeks,RYP0QFBYRQZ9D,NEUTRAL,0.6399
+07-09-2023,FALSE,B08T68ZMGL,5,Amazing results!,Wonderful product! My succulents recovered completely,RDY338DPSZYBU,POSITIVE,0.9965
+27-07-2022,FALSE,B08T68ZMGL,5,Visible improvement,Significant improvement in lawn health and flowering,RQ4GYEZIUPDCP,POSITIVE,0.9922
+24-06-2024,FALSE,B08T68ZMGL,4,Life saver for plants,Wonderful product! My tulsi more vibrant colors,RIUSAG25270EX,POSITIVE,0.9967
+04-10-2023,TRUE,B08T68ZMGL,2,Damaged my plants,This product damaged my lawn - now they're showing signs of stress,RVTBBFQD533SF,NEGATIVE,0.0103
+21-07-2023,TRUE,B08T68ZMGL,5,Life saver for plants,This product saved my dying vegetables - now they're looking healthier,RSN34OMRJ258U,POSITIVE,0.9951
+24-11-2024,TRUE,B08T68ZMGL,5,Highly recommended,This product saved my dying fruit trees - now they're greener than ever,R9SJZEV0UTZ65,POSITIVE,0.9957
+02-03-2022,TRUE,B08T68ZMGL,2,Don't buy,"The product is duplicate, waste of money.",R4EBQJ0YH3QVD,NEGATIVE,0.0138
+27-04-2025,TRUE,B08T68ZMGL,3,Moderate effect,My fruit trees are doing okay but not exceptional,RMW139X7XH43O,NEGATIVE,0.2834
+14-07-2025,TRUE,B08T68ZMGL,2,Don't buy,"The product is duplicate, waste of money.",RRV5ZCPZZP9KA,NEGATIVE,0.0138
+15-06-2024,TRUE,B08T68ZMGL,3,Average product,Not bad but not great for my bonsai,RCC54H5JVFQGS,NEGATIVE,0.0467
+14-11-2025,TRUE,B08T68ZMGL,4,Happy with purchase,Visible difference in my herb garden after 2 weeks,RISGU47LRMDHR,NEUTRAL,0.6761
+11-08-2023,TRUE,B08T68ZMGL,5,Great buy,Visible difference in my terrace garden after 3 weeks,RJOPDCVI0NOAS,NEUTRAL,0.6945
+23-02-2024,TRUE,B08T68ZMGL,5,Life saver for plants,Wonderful product! My vegetables blooming continuously,RJU9N0SOCFO8U,POSITIVE,0.9965
+12-04-2024,TRUE,B08T68ZMGL,3,Moderate effect,My terrace garden are doing okay but not exceptional,RWTD0X7DZYNRW,NEUTRAL,0.5766
+23-08-2023,TRUE,B08T68ZMGL,4,Life saver for plants,"My herb garden are thriving with this product, fruiting abundantly",RI70WQLTTB85D,POSITIVE,0.9966
+17-05-2023,TRUE,B08T68ZMGL,5,Highly recommended,This product saved my dying herb garden - now they're growing faster,R8VMBB3004RWF,POSITIVE,0.9959
+21-05-2023,TRUE,B08T68ZMGL,1,No results,Would not recommend for bonsai - Where is my money?,RJBRV4RWWB38D,NEGATIVE,0.0178
+03-08-2024,TRUE,B08T68ZMGL,4,Highly recommended,This product saved my dying terrace garden - now they're blooming continuously,R5Q0AARUDARG1,POSITIVE,0.9959
+24-06-2023,TRUE,B08T68ZMGL,4,Great buy,My rose plants have never looked better - growing faster,RRHZRHQ7HB806,POSITIVE,0.9957
+26-02-2025,TRUE,B08T68ZMGL,4,Happy with purchase,tulsi responded beautifully to this treatment,R69ROE5GJUZGF,POSITIVE,0.9787
+17-12-2025,FALSE,B08T68ZMGL,5,Visible improvement,Significant improvement in succulents health and fruit production,R7CQYEF4L7JPU,POSITIVE,0.9935
+28-12-2022,TRUE,B08T68ZMGL,5,Effective product,My plants flower abundantly. Thanks!,R2CD80SOXL57F,POSITIVE,0.9962
+21-10-2023,TRUE,B08T68ZMGL,5,Great buy,My orchids have never looked better - producing more flowers,RE2HLGPC5ULV8,POSITIVE,0.9954
+24-09-2022,TRUE,B08T68ZMGL,2,Disappointed,"Did nothing for my vegetables, very disappointed",RG726X53RUTNH,NEGATIVE,0.0126
+01-02-2024,FALSE,B08T68ZMGL,5,Good product,Significant improvement in hibiscus health and flowering,R49JK8DXUY0LT,POSITIVE,0.9953
+25-03-2024,TRUE,B08T68ZMGL,4,Works well,Significant improvement in herb garden health and growth,R9T2JVGVRXT2X,POSITIVE,0.9958
+14-01-2023,TRUE,B08T68ZMGL,4,Highly recommended,This product saved my dying marigold - now they're producing more flowers,REG9AKUVFKSF8,POSITIVE,0.9948
+18-12-2023,TRUE,B08T68ZMGL,4,Amazing results!,Excellent results with my orchids - saw improvement in just 18 days,RMMZBP7L4PZHJ,POSITIVE,0.9947
+27-02-2025,FALSE,B08T68ZMGL,4,Works well,Significant improvement in tulsi health and growth,RT2TPGNTG5NC7,POSITIVE,0.9945
+07-05-2024,TRUE,B08T68ZMGL,5,Happy with purchase,My rose plants have never looked better - growing faster,RQZRU010P3YUL,POSITIVE,0.9957
+18-03-2025,TRUE,B08T68ZMGL,4,Life saver for plants,This product saved my dying marigold - now they're fruiting abundantly,RWL65Y86Y825D,POSITIVE,0.9955
+30-10-2025,TRUE,B08T68ZMGL,5,Life saver for plants,Excellent results with my terrace garden - saw improvement in just 8 days,RW8EIJKP76R65,POSITIVE,0.9951
+24-02-2022,TRUE,B08T68ZMGL,2,No results,"Did nothing for my marigold, very disappointed",RCQJN4TSR3V2S,NEGATIVE,0.0139
+13-10-2024,TRUE,B08T68ZMGL,2,Damaged my plants,This product damaged my terrace garden - now they're still struggling,RE2GLA206R937,NEGATIVE,0.0097
